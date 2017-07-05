@@ -1,0 +1,24 @@
+//*---------------------------------------*
+//  Custom columns
+//*---------------------------------------*
+.custom-columns {
+    @include media-breakpoint-down(sm) {
+        .col-md-7 {
+            margin-bottom: 1.375em;
+        }
+    }
+
+
+    @include media-breakpoint-up(sm) {
+        .col-md-7 {
+            padding-right: 68px;
+        }
+    }
+}
+@include media-breakpoint-down(xs) {
+    .page-template-work {
+        .section-title h1 p {
+            font-size: 29px;
+        }
+    }
+}

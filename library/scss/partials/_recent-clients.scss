@@ -1,0 +1,13 @@
+//*---------------------------------------*
+//  Recent Clients
+//*---------------------------------------*
+.recent-clients {
+    border-top: 1px solid $black-9;
+    border-bottom: 1px solid $black-9;
+
+    div[class*="col-"] {
+        margin-top: 65px;
+    }
+
+    h3 {}
+}

@@ -1,0 +1,21 @@
+//*---------------------------------------*
+//  Main
+//*---------------------------------------*
+main {
+    flex: 1 0 auto;
+    margin-top: 70px;
+    background-color: white;
+    @include media-breakpoint-down(sm) {
+        margin-top: 60px;
+    }
+    h1[rel] {
+        position: relative;
+
+        &::before {
+            content: attr(rel);
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+    }
+}

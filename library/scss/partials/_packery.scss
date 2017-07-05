@@ -1,0 +1,253 @@
+//*---------------------------------------*
+//  Packery Grid
+//*---------------------------------------*
+.packery--grid {
+    visibility: hidden;
+    opacity: 0;
+
+    @extend .clearfix;
+
+    will-change: opacity;
+    transition: opacity 0.5s;
+
+    //*---------------------------------------*
+    //  Is Img Loaded
+    //*---------------------------------------*
+    &.is-img-loaded {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    //*---------------------------------------*
+    //  Packery Gutter
+    //*---------------------------------------*
+    .packery-gutter {
+        width: 0;
+    }
+
+    //*---------------------------------------*
+    //  Packery Item
+    //*---------------------------------------*
+    .packery-item {
+        position: relative;
+        float: left;
+        margin-bottom: 1rem;
+        width: 100%;
+        height: calc(100vh - 2rem);
+        overflow: hidden;
+        cursor: pointer;
+        background-position: cover;
+        background-repeat: no-repeat;
+        background-color: $silver;
+
+        //*---------------------------------------*
+        //  > Div
+        //*---------------------------------------*
+        > div {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            display: flex;
+            align-items: center;
+            background-size: cover;
+            will-change: opacity, scale;
+            opacity: 0;
+            transform: scale(0.9);
+            transition: all 0.6s;
+
+            &.onScreen {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            a {
+                display: block;
+                width: 100%;
+                height: 100%;
+            }
+
+            blockquote {
+                p {
+                    @extend .text-14;
+                }
+            }
+        }
+
+        //*---------------------------------------*
+        //  Figure
+        //*---------------------------------------*
+        figure {
+            //*---------------------------------------*
+            //  img
+            //*---------------------------------------*
+            img {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                display: block;
+            }
+
+            //*---------------------------------------*
+            //  Figcaption
+            //*---------------------------------------*
+            figcaption {
+                display: flex;
+                flex-direction: column;
+                position: absolute;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                padding: 48px 60px;
+                color: white;
+                font-size: 20px;
+                font-weight: 300;
+                line-height: 1.3;
+                text-align: left;
+                z-index: 1;
+                cursor: pointer;
+                transition: opacity 0.4s ease;
+
+                h6 {
+                    margin-bottom: 6px;
+                }
+
+                p {
+                    margin: 0;
+                }
+            }
+        }
+
+        //*---------------------------------------*
+        //  Pos Bottom Right
+        //*---------------------------------------*
+        &.pos-bottom-right {
+            > div {
+                background-position: bottom right;
+            }
+        }
+
+        //*---------------------------------------*
+        //  Pos Top Right
+        //*---------------------------------------*
+        &.pos-top-right {
+            > div {
+                background-position: top right;
+            }
+        }
+
+        //*---------------------------------------*
+        //  Pos Bottom Left
+        //*---------------------------------------*
+        &.pos-bottom-left {
+            > div {
+                background-position: bottom left;
+            }
+        }
+    }
+
+    //*---------------------------------------*
+    //  Responsive
+    //*---------------------------------------*
+    @include media-breakpoint-down(md) {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+
+    @include media-breakpoint-up(md) {
+        margin-left: 1rem;
+        margin-right: 0;
+
+        //*---------------------------------------*
+        //  Packery Gutter
+        //*---------------------------------------*
+        .packery-gutter {
+            width: 1.25rem;
+        }
+
+        //*---------------------------------------*
+        //  Packery Item
+        //*---------------------------------------*
+        .packery-item {
+            margin-bottom: 0;
+            width: calc(33.33333% - 1.25rem);
+            height: 300px;
+
+            //*---------------------------------------*
+            //  Size 50
+            //*---------------------------------------*
+            &.size-50 {
+                width: calc(50% - 1.25rem);
+            }
+
+            //*---------------------------------------*
+            //  Size 66
+            //*---------------------------------------*
+            &.size-66 {
+                width: calc(66.66666% - 1.25rem);
+            }
+
+            //*---------------------------------------*
+            //  Size 66 Vertical
+            //*---------------------------------------*
+            &.size-66-vertical {
+                height: 620px;
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+//  No-Touch
+//*---------------------------------------*
+.no-touch .packery--grid {
+    @include media-breakpoint-up(lg) {
+        .packery-item {
+            //*---------------------------------------*
+            //  Figcaption
+            //*---------------------------------------*
+            figure figcaption {
+                justify-content: center;
+                align-items: center;
+                top: 0;
+                opacity: 0;
+                text-align: center;
+            }
+
+            //*---------------------------------------*
+            //
+            //  :hover
+            //
+            //*---------------------------------------*
+            &:hover {
+                figure {
+                    figcaption {
+                        opacity: 1;
+                    }
+                }
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+//  No-JS
+//*---------------------------------------*
+.no-js {
+    .packery--grid {
+        .packery-item {
+            > div {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+    }
+}
+@include media-breakpoint-down(sm) {
+    .packery--grid.mb--110.is-img-loaded {
+        margin-bottom: 30px;
+    }
+}

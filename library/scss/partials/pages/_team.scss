@@ -1,0 +1,493 @@
+.mobile-team-page {
+    display: none;
+}
+
+//*---------------------------------------*
+// Team Header
+//*---------------------------------------*
+.team-header_row {
+    margin-bottom: 75px;
+    color: $black-4;
+}
+
+#headerControls {
+    width: 100%;
+    max-width: 58.5rem;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 34px;
+    z-index: 3;
+    background: rgba(255, 255, 255, 0.81);
+
+    a {
+        font-weight: 500;
+
+        &.selected {
+            color: black;
+        }
+    }
+}
+
+.viz-spacer {
+    height: 0px;
+}
+
+//*---------------------------------------*
+// Team view options
+//*---------------------------------------*
+.team-view-options {
+    position: relative;
+    height: 100%;
+    transition: transform 0.15s ease;
+}
+
+//*---------------------------------------*
+// Team discription
+//*---------------------------------------*
+.team-disc {
+    color: #666666;
+    font-size: 180%;
+    font-weight: 100;
+    margin-bottom: 68px;
+}
+
+//*---------------------------------------*
+// Filters and Viz
+//*---------------------------------------*
+.filters-and-viz {
+    width: 100%;
+
+    $activeTranistion: all 0.5s;
+
+    .graph-container {
+        position: absolute;
+        top: 0px;
+
+        .slack-wrapper {
+            cursor: pointer;
+        }
+
+        .not-infocus[data-type="person"] {
+            image {
+                opacity: 0.3;
+                transition: $activeTranistion;
+            }
+
+            circle {
+                opacity: 1;
+            }
+        }
+
+        .node-active[data-type="person"] {
+            image {
+                opacity: 1;
+                transition: $activeTranistion;
+            }
+        }
+
+        .not-infocus[data-type="channel"] {
+            circle {
+                fill: #C28C8F;
+                transition: $activeTranistion;
+            }
+        }
+
+        .node-active[data-type="channel"] {
+            circle {
+                fill: #84191E;
+                transition: $activeTranistion;
+            }
+        }
+
+        .link-inactive {
+            stroke: rgba(230, 228, 228, 0.51);
+            transition: $activeTranistion;
+        }
+
+        .link-active {
+            stroke: rgba(230, 228, 228, 1);
+            transition: $activeTranistion;
+        }
+
+        .node-label {
+            text {
+                font-size: 16px;
+                font-weight: 500;
+            }
+        }
+    }
+
+    &[data-state='resetToAll'] {
+        #resetToAll {
+            color: #333333;
+        }
+
+        .team-nav {
+            display: block;
+        }
+
+        div[data-section="work"] {
+            display: flex;
+        }
+
+        .vis-container svg {
+            margin-top: -42px;
+        }
+    }
+
+    &[data-state='client'] {
+        .team-nav {
+            display: block;
+        }
+
+        .vis-container svg {
+            display: none;
+        }
+    }
+
+    &:not([data-state='client']) {
+        .client-container {
+            display: none;
+        }
+    }
+
+    &[data-state='date'] {
+        #date {
+            color: #333333;
+        }
+
+        .vis-container svg {
+            margin-top: -268px;
+        }
+    }
+
+    &[data-state='slack'] {
+        #slack {
+            color: #333333;
+        }
+
+        height: 1579px;
+
+        .vis-container svg {
+            display: none;
+        }
+
+        div[data-section="work"] {
+            display: none;
+        }
+
+        .viz-spacer {
+            height: 1061px;
+        }
+    }
+
+    &:not([data-state='slack']) {
+        .graph-container {
+            display: none;
+        }
+    }
+}
+
+//*---------------------------------------*
+// Vis Container
+//*---------------------------------------*
+.vis-container {
+    width: 80%;
+
+    svg {
+        display: block;
+    }
+
+    .node-container {
+        cursor: pointer;
+    }
+}
+
+#teamModal {
+    display: none;
+}
+
+//*---------------------------------------*
+// Graph container
+//*---------------------------------------*
+.graph-container {
+    display: block;
+    width: 100%;
+}
+
+//*---------------------------------------*
+// CLient container
+//*---------------------------------------*
+.client-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    .team-member {
+        position: relative;
+        width: calc(50% - 20px);
+        height: 322px;
+        margin-bottom: 65px;
+        border: 1px solid #CCCCCC;
+        margin-left: 20px;
+        padding: 35px 25px;
+        padding-top: 55px;
+        transition: all .4s;
+        top: 140px;
+        opacity: 0.2;
+
+        &.show {
+            top: 0;
+            opacity: 1;
+        }
+
+        .avatar {
+            position: absolute;
+            left: 40%;
+            top: -36px;
+
+            img {
+                border-radius: 50%;
+                width: 80px;
+                height: 80px;
+            }
+        }
+
+        .role {
+            font-size: 14px;
+            margin: 0;
+            margin-bottom: 5px;
+        }
+
+        h6 {
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .bio {
+            p {
+                font-size: 14px;
+                color: #555555;
+                line-height: 22px;
+            }
+        }
+
+        .more {
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+
+            span {
+                display: block;
+                margin-left: 5px;
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+// Team Nav
+//*---------------------------------------*
+.team-nav {
+    display: none;
+
+    label {
+        margin-bottom: 2px;
+        font-weight: 700;
+        font-size: 18px;
+    }
+
+    ul {
+        margin-bottom: 20px;
+
+        li {
+            a {
+                color: $black-6;
+                font-weight: 300;
+                text-decoration: none;
+
+                &:hover {
+                    color: $dm-red;
+                }
+            }
+
+            &.active {
+                a {
+                    color: $dm-red;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+// Main content
+//*---------------------------------------*
+.main-content {
+    .higlight {
+        display: inline-block;
+        padding: 0 10px;
+        background-color: #ECECED;
+        color: #8D181C;
+
+        &.spotlight {
+            background-color: #8D181C;
+            color: #ECECED;
+        }
+    }
+}
+
+//*---------------------------------------*
+// tool tip
+//*---------------------------------------*
+.tool-tip {
+    width: 250px;
+    min-height: 330px;
+    padding: 10px 14px;
+    top: 239px;
+    right: 271px;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    border-radius: 2px;
+
+    .tip--av-title {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+
+        img {
+            max-height: 60px;
+            border-radius: 50%;
+            margin-right: 16px;
+        }
+    }
+
+    k
+    .tip--title {
+        h3 {
+            margin: 0;
+            font-size: 13px;
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 20px;
+        }
+    }
+}
+
+.tool-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 40px;
+    width: 100%;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    content: "\25BC";
+    position: absolute;
+    bottom: -27px;
+    right: 6px;
+    text-align: center;
+}
+
+div[data-section="work"] {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 58.5rem;
+}
+
+//*---------------------------------------*
+// Bubbles 
+//*---------------------------------------*
+.bubble {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.team-modal-img {
+    border-radius: 50%;
+}
+@media (max-width: 768px) {
+    .filters-and-viz {
+        display: none;
+    }
+
+    .mobile-team-page {
+        display: block;
+
+        .team-header_row {
+            margin-top: 120px;
+
+            p {
+                margin-bottom: 40px;
+            }
+
+            .avatar {
+                margin-bottom: 2px;
+
+                img {
+                    border-radius: 50%;
+                    width: 65px;
+                    height: 65px;
+                }
+            }
+        }
+
+        .role-group-wrapper {
+            margin-bottom: 40px;
+
+            &:not(:first-child) {}
+
+            h6 {
+                font-size: 15px;
+                font-weight: 600;
+                margin-bottom: 10px;
+            }
+        }
+
+        .role-group {
+            display: flex;
+            justify-content: space-between;
+            flex-flow: row wrap;
+
+            p {
+                font-size: 18px;
+                margin-bottom: 0px;
+            }
+
+            .mobile-person {
+                width: 34%;
+                text-align: center;
+                margin-bottom: 20px;
+                cursor: pointer;
+            }
+        }
+    }
+}
+@media (max-width: 667px) {
+    .mobile-team-page {
+        .team-header_row {
+            margin-top: 60px;
+        }
+        .role-group {
+            display: flex;
+            justify-content: space-around;
+            flex-flow: row wrap;
+
+            .mobile-person {
+                width: 34%;
+                text-align: center;
+                margin-bottom: 20px;
+                cursor: pointer;
+            }
+        }
+    }
+}
+.team-modal-bio {
+    margin-bottom: rem(40);
+}

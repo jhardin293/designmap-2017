@@ -1,0 +1,5342 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "C0UA5K0TW",
+            "name": "2wheels-1seat",
+            "is_channel": true,
+            "created": 1458586883,
+            "creator": "U02A5325Z",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U0EL3G4SG",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For peeps with motorcycles",
+                "creator": "U02A5325Z",
+                "last_set": 1458586883
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C047S7CGW",
+            "name": "active",
+            "is_channel": true,
+            "created": 1427920435,
+            "creator": "U02MFL6A1",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WTX03",
+                "U024X3F7G",
+                "U024XLXET",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04R07L7Z",
+                "U052BQYCF",
+                "U078EH2R0",
+                "U0FKXM9SQ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Races, team sports and recreational activities in and around SF.",
+                "creator": "U02MFL6A1",
+                "last_set": 1427920436
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C03A57ZFM",
+            "name": "adobe",
+            "is_channel": true,
+            "created": 1420570492,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "We can delete this if we don't get the project",
+                "creator": "U024WQ9TT",
+                "last_set": 1420570493
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C03G2NE7Z",
+            "name": "allscripts",
+            "is_channel": true,
+            "created": 1422484028,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C030WR2J4",
+            "name": "angieslist",
+            "is_channel": true,
+            "created": 1416268960,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C06CT6A68",
+            "name": "apple_watch",
+            "is_channel": true,
+            "created": 1434427402,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X3F7G",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Thoughts on Apple\u2019s most personal device.",
+                "creator": "U024W0H8W",
+                "last_set": 1434427403
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C03JB7W0G",
+            "name": "art",
+            "is_channel": true,
+            "created": 1423105083,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024X2EA4",
+                "U024X3F7G",
+                "U024XLXET",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0CPBHR4L",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All mediums welcome!",
+                "creator": "U033KUVE0",
+                "last_set": 1423105084
+            },
+            "num_members": 14
+        },
+        {
+            "id": "C0PH5F8HZ",
+            "name": "artsandcrafts",
+            "is_channel": true,
+            "created": 1456770827,
+            "creator": "U04F8Q0JL",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024Y5VLY",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0PJ7FXFX",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U13KUN8GN",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "Ikebana next week when?",
+                "creator": "U04F8Q0JL",
+                "last_set": 1462905756
+            },
+            "purpose": {
+                "value": "make stuff.\r\nhttps:\/\/www.dropbox.com\/sh\/gwmfbd754vbqf4q\/AAC0nQ2sXEoeYvsw4w-RD8sla?dl=0",
+                "creator": "U04F8Q0JL",
+                "last_set": 1458673515
+            },
+            "num_members": 22
+        },
+        {
+            "id": "C0LKNESBD",
+            "name": "automation-studio",
+            "is_channel": true,
+            "created": 1454972903,
+            "creator": "U024Y5T1C",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WJDBN",
+                "U024Y5T1C",
+                "U02771E4H"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To talk about Automation Studio stuff",
+                "creator": "U024Y5T1C",
+                "last_set": 1454972904
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C02F1JW9S",
+            "name": "avaya",
+            "is_channel": true,
+            "created": 1407174382,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C02FR636M",
+            "name": "avaya-ipocc",
+            "is_channel": true,
+            "created": 1407878946,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02FS4ALJ",
+                "U02MH74A8"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0L7GKVBN",
+            "name": "band",
+            "is_channel": true,
+            "created": 1454534300,
+            "creator": "U024X2FGS",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2FGS",
+                "U02A5325Z",
+                "U02MFL6A1",
+                "U04F8Q0JL",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "Sean &amp; People Who Want to Listen to Sean",
+                "creator": "U04F8Q0JL",
+                "last_set": 1458059875
+            },
+            "purpose": {
+                "value": "not Rock Band",
+                "creator": "U024X2FGS",
+                "last_set": 1454534300
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0HMHU9H6",
+            "name": "bankrate",
+            "is_channel": true,
+            "created": 1451950644,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U04A04AV3",
+                "U078EH2R0",
+                "U0CPBHR4L",
+                "U0F4W22GJ",
+                "U0KM6C1LZ",
+                "U13KUN8GN",
+                "U13TU1JP7"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Internal discussion of all things Bankrate",
+                "creator": "U024WQ9TT",
+                "last_set": 1451950645
+            },
+            "num_members": 13
+        },
+        {
+            "id": "C02ALKL2F",
+            "name": "biking",
+            "is_channel": true,
+            "created": 1401314834,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EJC",
+                "U024X2EMN",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02MFL6A1",
+                "U0F4W22GJ",
+                "U0FKXM9SQ"
+            ],
+            "topic": {
+                "value": "Levi's Gran Fondo Staging Area",
+                "creator": "U024W0H8W",
+                "last_set": 1411679702
+            },
+            "purpose": {
+                "value": "It never gets easier, you just go faster. - Greg LeMond",
+                "creator": "U024WQ9TT",
+                "last_set": 1401314835
+            },
+            "num_members": 13
+        },
+        {
+            "id": "C02BJ28T8",
+            "name": "bizdev",
+            "is_channel": true,
+            "created": 1402634771,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U02771E4H",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C024X26P8",
+            "name": "bloomberg",
+            "is_channel": true,
+            "created": 1391193778,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024Y5VLY",
+                "U0277UJK8",
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C0HHQ0WBD",
+            "name": "boats",
+            "is_channel": true,
+            "created": 1451587019,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0EG6TPUM",
+            "name": "bobatime",
+            "is_channel": true,
+            "created": 1447454709,
+            "creator": "U0B9W577E",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024X64LA",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0EL3G4SG",
+                "U0FKXM9SQ",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0PJ7FXFX",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": ":nyanrainbow::nyanrainbow::nyanrainbow::nyanrainbow::boba3:",
+                "creator": "U02LFPLBH",
+                "last_set": 1456524310
+            },
+            "purpose": {
+                "value": "To announce when\/where we should get boba\u2026. Because, boba.",
+                "creator": "U0B9W577E",
+                "last_set": 1447454710
+            },
+            "num_members": 27
+        },
+        {
+            "id": "C029HNKKH",
+            "name": "books",
+            "is_channel": true,
+            "created": 1399061567,
+            "creator": "U02771E4H",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WQ9TT",
+                "U024WRPDH",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X64LA",
+                "U024XLXET",
+                "U024XUPS1",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U04R07L7Z",
+                "U078EH2R0",
+                "U0EL3G4SG",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to discuss and store books people are currently reading or have read",
+                "creator": "U02771E4H",
+                "last_set": 1399061567
+            },
+            "num_members": 16
+        },
+        {
+            "id": "C08AQGR9B",
+            "name": "brandingbrand",
+            "is_channel": true,
+            "created": 1438179438,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024X3F7G",
+                "U02PWJQ54",
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C097FS3JR",
+            "name": "brownbags",
+            "is_channel": true,
+            "created": 1439848944,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024X3UDG",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Assuming the participants of this channel will change depending on which brownbag is up next",
+                "creator": "U024X3UDG",
+                "last_set": 1439848945
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C026N6J88",
+            "name": "build-a-product",
+            "is_channel": true,
+            "created": 1395181871,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X3UDG",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things Casual Carpool",
+                "creator": "U024Y5VLY",
+                "last_set": 1395181871
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0DPW0ALQ",
+            "name": "carfax",
+            "is_channel": true,
+            "created": 1446583711,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U0CPBHR4L",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things carfax",
+                "creator": "U024WQ9TT",
+                "last_set": 1446583711
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C0DM2K4E9",
+            "name": "centric",
+            "is_channel": true,
+            "created": 1446491298,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C06N524Q3",
+            "name": "clearcare",
+            "is_channel": true,
+            "created": 1435082060,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3F7G",
+                "U024X3UDG",
+                "U052BQYCF"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C027EM85V",
+            "name": "cloudgenix",
+            "is_channel": true,
+            "created": 1396037074,
+            "creator": "U024X3F7G",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U0277UJK8",
+                "U02J53SMJ",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U04A04F89",
+                "U063KE3GR"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C02BV101R",
+            "name": "cloudgenix-designmap",
+            "is_channel": true,
+            "created": 1403138552,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U02BV3Z8K",
+                "U02BVRM72",
+                "U02BVT46N",
+                "U02GEG67Z",
+                "U02J53SMJ",
+                "U02PPDV7P",
+                "U02PWJQ54",
+                "U02TKNRN9",
+                "U033KUVE0",
+                "U04A04F89",
+                "U063KE3GR",
+                "U070DHLBV",
+                "U0A4LKZA5",
+                "U183901TP"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C0614A2AD",
+            "name": "cloudgenix-trello",
+            "is_channel": true,
+            "created": 1433541626,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024Y5T1C",
+                "U033KUVE0",
+                "U04A04F89"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C04AZC3R2",
+            "name": "cloudgenix-trello-gh",
+            "is_channel": true,
+            "created": 1428605828,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Notifications for Trello &amp; Github",
+                "creator": "U033KUVE0",
+                "last_set": 1428605828
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0G3SE2A3",
+            "name": "coffeetrain",
+            "is_channel": true,
+            "created": 1449523085,
+            "creator": "U0ETMT6SY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024X2EA4",
+                "U024X3F7G",
+                "U024XLXET",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U04F8Q0JL",
+                "U0803BKQ9",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0KM6C1LZ",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Or if you prefer, coffee jetski",
+                "creator": "U0ETMT6SY",
+                "last_set": 1449523086
+            },
+            "num_members": 14
+        },
+        {
+            "id": "C0VD4E42G",
+            "name": "conf-room-naming",
+            "is_channel": true,
+            "created": 1458878146,
+            "creator": "U024WTK6B",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Help us brainstorm a theme to name our conference rooms. They should be client appropriate, and reflect our studio culture!",
+                "creator": "U024WTK6B",
+                "last_set": 1458878147
+            },
+            "num_members": 38
+        },
+        {
+            "id": "C0CD2JA0Z",
+            "name": "cooking",
+            "is_channel": true,
+            "created": 1444773507,
+            "creator": "U07CDNBPA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U024X2EA4",
+                "U024X64LA",
+                "U02LFPLBH",
+                "U039Y3Q4W",
+                "U07CDNBPA",
+                "U0DM0NMRA",
+                "U0PHG2S3F",
+                "U0XTQH5PY",
+                "U11MVN2H5"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "mmm...fooood...",
+                "creator": "U07CDNBPA",
+                "last_set": 1444773507
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C024ZAFJ6",
+            "name": "coworking",
+            "is_channel": true,
+            "created": 1391641946,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024XUPS1",
+                "U02595RS1",
+                "U0803BKQ9",
+                "U0CPBHR4L"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Maybe we can use this instead of basecamp to journal our experiences... Including also people who aren't coworking but work with people who do.",
+                "creator": "U024X3UDG",
+                "last_set": 1391641947
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C04L6PC17",
+            "name": "critique",
+            "is_channel": true,
+            "created": 1430354220,
+            "creator": "U024X2EMN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "burninating the countryside",
+                "creator": "U02LFPLBH",
+                "last_set": 1445030484
+            },
+            "purpose": {
+                "value": "Place to share snippets of what you're working on, things you've finished and want to show off, or other people's work that needs to be recognized (e.g. pure gold)",
+                "creator": "U024X2EMN",
+                "last_set": 1430355409
+            },
+            "num_members": 37
+        },
+        {
+            "id": "C148CCUAH",
+            "name": "design-tools",
+            "is_channel": true,
+            "created": 1461776449,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X4CFY",
+                "U024XLXET",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U0DM0NMRA",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Share and discuss new and old tools",
+                "creator": "U024W0FK2",
+                "last_set": 1461776449
+            },
+            "num_members": 11
+        },
+        {
+            "id": "C046MSC85",
+            "name": "design_articles",
+            "is_channel": true,
+            "created": 1427485760,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024WTX03",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0XTQH5PY",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "Grammar, police.",
+                "creator": "U024W0H8W",
+                "last_set": 1448913509
+            },
+            "purpose": {
+                "value": "Design Articles archive and discussion.",
+                "creator": "U02BPJ5HY",
+                "last_set": 1427485761
+            },
+            "num_members": 38
+        },
+        {
+            "id": "C0KBEFPM0",
+            "name": "design_research",
+            "is_channel": true,
+            "created": 1453750303,
+            "creator": "U0FKXM9SQ",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U02771E4H",
+                "U039Y3Q4W",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0DM0NMRA",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "DesignMap channel for design research-specific discussions.",
+                "creator": "U0FKXM9SQ",
+                "last_set": 1453750304
+            },
+            "num_members": 13
+        },
+        {
+            "id": "C025Z1GG3",
+            "name": "dev_prototyping",
+            "is_channel": true,
+            "created": 1394152870,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U024X2EMN",
+                "U024X3F7G",
+                "U024X64LA",
+                "U024XLXET",
+                "U02AVFB88",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U07CDNBPA",
+                "U0CPBHR4L",
+                "U0DM0NMRA"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "all things dev and prototyping",
+                "creator": "U024WQ9TT",
+                "last_set": 1394152870
+            },
+            "num_members": 14
+        },
+        {
+            "id": "C03SHPJN4",
+            "name": "dm-al-spmobileapp",
+            "is_channel": true,
+            "created": 1425345477,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U033P9JGG",
+                "U0351T7QT",
+                "U03BU5SAT",
+                "U03RTLH6S",
+                "U03SPFSBM",
+                "U03TRMH0P",
+                "U03U4372S"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel will be used for all SP Mobile App communication",
+                "creator": "U024VQKLH",
+                "last_set": 1425346133
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0BET598D",
+            "name": "dm-and-new-employees",
+            "is_channel": true,
+            "created": 1443471847,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WRPDH",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U039Y3Q4W",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U13KUN8GN",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "any questions you might have, can go in here, and not get lost in the general and random channels.",
+                "creator": "U024W0H8W",
+                "last_set": 1443471848
+            },
+            "num_members": 28
+        },
+        {
+            "id": "C033LPJU0",
+            "name": "dm-angieslist-team",
+            "is_channel": true,
+            "created": 1417465875,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U033P9JGG",
+                "U0344QT86",
+                "U0351T7QT",
+                "U039Y3Q4W",
+                "U03AF34ER",
+                "U03BLCZV0",
+                "U03BU5SAT",
+                "U03E0K0TZ",
+                "U03RTLH6S",
+                "U03SPFSBM",
+                "U040BNF3H",
+                "U04F2SES5"
+            ],
+            "topic": {
+                "value": "Code Names",
+                "creator": "U024VQKLH",
+                "last_set": 1421370037
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C04R0NGM6",
+            "name": "dm-bloomberg-team",
+            "is_channel": true,
+            "created": 1431465652,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024Y5VLY",
+                "U04F8Q0JL",
+                "U04R1347S",
+                "U04R15HLS",
+                "U04RNG201",
+                "U04T5KDK5",
+                "U0GPWVCQZ",
+                "U0GPZ4QA0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C02KLRX8Y",
+            "name": "dm-ddo-docker",
+            "is_channel": true,
+            "created": 1410820683,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U02KLUXAN",
+                "U02KM120G",
+                "U02NTMR6Y"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C02P27H75",
+            "name": "dm-dot-com",
+            "is_channel": true,
+            "created": 1412899824,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U033KUVE0",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 8
+        },
+        {
+            "id": "C044VS55F",
+            "name": "dm-ebay-evo",
+            "is_channel": true,
+            "created": 1427230805,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C03MBQBCJ",
+            "name": "dm-engineering",
+            "is_channel": true,
+            "created": 1423946389,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U0803BKQ9",
+                "U0BF1BANQ",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things web development",
+                "creator": "U033KUVE0",
+                "last_set": 1423946390
+            },
+            "num_members": 15
+        },
+        {
+            "id": "C0L4PK9GU",
+            "name": "dm-visual-design",
+            "is_channel": true,
+            "created": 1454463060,
+            "creator": "U024X2EA4",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EA4",
+                "U024X4CFY",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04F8Q0JL",
+                "U07CDNBPA",
+                "U0CPBHR4L",
+                "U0PHG2S3F",
+                "U0XTQH5PY",
+                "U13KUN8GN"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C02774AN7",
+            "name": "docker",
+            "is_channel": true,
+            "created": 1395858147,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024X3UDG",
+                "U024XUPS1",
+                "U0E8PPNMP",
+                "U0EL3G4SG",
+                "U0F4W22GJ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C025VE7Q9",
+            "name": "eastbay-ians",
+            "is_channel": true,
+            "created": 1394048434,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024XUPS1",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Co working discussions",
+                "creator": "U024WQ9TT",
+                "last_set": 1394048434
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C02AVG27N",
+            "name": "ebay",
+            "is_channel": true,
+            "created": 1401741629,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024WTK6B",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U078EH2R0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C024Y65SC",
+            "name": "editor",
+            "is_channel": true,
+            "created": 1391476709,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EA4"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to talk about the Editor",
+                "creator": "U024Y5VLY",
+                "last_set": 1391476710
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0HLT52HX",
+            "name": "edm",
+            "is_channel": true,
+            "created": 1451927304,
+            "creator": "U07CDNBPA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2FGS",
+                "U02A5325Z",
+                "U02LFPLBH",
+                "U033KUVE0",
+                "U063KE3GR",
+                "U07CDNBPA",
+                "U13KUN8GN"
+            ],
+            "topic": {
+                "value": "wah wah wubwubwubwub whowww",
+                "creator": "U07CDNBPA",
+                "last_set": 1461783050
+            },
+            "purpose": {
+                "value": "Drop the bass",
+                "creator": "U07CDNBPA",
+                "last_set": 1451927305
+            },
+            "num_members": 7
+        },
+        {
+            "id": "C024X26TS",
+            "name": "emc",
+            "is_channel": true,
+            "created": 1391193785,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EJC",
+                "U024X3UDG",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C02BP24UU",
+            "name": "events",
+            "is_channel": true,
+            "created": 1402937380,
+            "creator": "U024WTK6B",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02AVFB88",
+                "U02BZE6QF",
+                "U02MFL6A1",
+                "U0EL3G4SG",
+                "U0ETMT6SY",
+                "U0PHG2S3F",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Planning, discussing, coordinating, DM events.",
+                "creator": "U024WTK6B",
+                "last_set": 1402937380
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C07R2TY84",
+            "name": "fashion",
+            "is_channel": true,
+            "created": 1437164813,
+            "creator": "U04F8Q0JL",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U02BPJ5HY",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "no developers allowed",
+                "creator": "U04F8Q0JL",
+                "last_set": 1443638772
+            },
+            "purpose": {
+                "value": "fabulous as fk.",
+                "creator": "U04F8Q0JL",
+                "last_set": 1437164813
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C098XRCPN",
+            "name": "first-class",
+            "is_channel": true,
+            "created": 1439922618,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0PHG2S3F",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "The privileged life",
+                "creator": "U02A5325Z",
+                "last_set": 1456191281
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 13
+        },
+        {
+            "id": "C02B63JJA",
+            "name": "fun-squad",
+            "is_channel": true,
+            "created": 1402098799,
+            "creator": "U024X2EMN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WRCUT",
+                "U024WTK6B",
+                "U024X2EMN",
+                "U024X3UDG",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U0DM0NMRA",
+                "U0PHG2S3F",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 11
+        },
+        {
+            "id": "C040HER7W",
+            "name": "gaming",
+            "is_channel": true,
+            "created": 1426124883,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WQ9TT",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024XLXET",
+                "U02LFPLBH",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U063KE3GR",
+                "U07CDNBPA",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "console, handheld, boardgames, mind games etc",
+                "creator": "U033KUVE0",
+                "last_set": 1426124883
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C02H72BN2",
+            "name": "gannett",
+            "is_channel": true,
+            "created": 1409081704,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss Gannett projects",
+                "creator": "U024W0FK2",
+                "last_set": 1409081705
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C024W0FK8",
+            "name": "general",
+            "is_channel": true,
+            "created": 1391027649,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": true,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024WRCUT",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EJC",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024X64LA",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02595RS1",
+                "U02771E4H",
+                "U0277UJK8",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02AY22TD",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U02BZE6QF",
+                "U02G95QFR",
+                "U02L319GG",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U0352D27Y",
+                "U035YEEV6",
+                "U03965PSY",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04LESAGJ",
+                "U04R07L7Z",
+                "U052BQYCF",
+                "U063KE3GR",
+                "U06C4U5RC",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0A0EUMHP",
+                "U0B9W577E",
+                "U0BF1BANQ",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0DM7CBL5",
+                "U0EL3G4SG",
+                "U0ES53HNC",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0F56K41X",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0KMS5BSR",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U13KUN8GN",
+                "U13TU1JP7",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "All things studio related, events and updates. Take random to #randon and gross to #gross :)",
+                "creator": "U02MFL6A1",
+                "last_set": 1461628251
+            },
+            "purpose": {
+                "value": "The #general channel is for team-wide communication and announcements. All team members are in this channel.",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 56
+        },
+        {
+            "id": "C037PUZCE",
+            "name": "giphy_chat",
+            "is_channel": true,
+            "created": 1419019912,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024XLXET",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "no talk, do only \/giphy here",
+                "creator": "U024X2FGS",
+                "last_set": 1420594526
+            },
+            "purpose": {
+                "value": "Post your lamest GIPHY responses here.  Actually, no, wait a second, you would just have to post literally every response ever.",
+                "creator": "U024WJDBN",
+                "last_set": 1419019914
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C02690YMF",
+            "name": "glass",
+            "is_channel": true,
+            "created": 1394576403,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EJC",
+                "U0277UJK8"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "for all the glassholes in the office",
+                "creator": "U024WQ9TT",
+                "last_set": 1394576404
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0DPV7N4X",
+            "name": "gross",
+            "is_channel": true,
+            "created": 1446584075,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024XLXET",
+                "U02BPJ5HY",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "What did you expect?",
+                "creator": "U024XLXET",
+                "last_set": 1456239337
+            },
+            "purpose": {
+                "value": "Let poo shines!",
+                "creator": "U02BPJ5HY",
+                "last_set": 1446584076
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C0E2188SJ",
+            "name": "hamburgerx3",
+            "is_channel": true,
+            "created": 1446843580,
+            "creator": "U02PWJQ54",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02PWJQ54",
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "On a scale of pizza to burrito, how hamburger are you?",
+                "creator": "U02PWJQ54",
+                "last_set": 1447191106
+            },
+            "purpose": {
+                "value": "the purpose of HamburgerHamburgerHamburger is tbd",
+                "creator": "U02PWJQ54",
+                "last_set": 1446843580
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C02DZ9JV0",
+            "name": "hosted_style_tiles",
+            "is_channel": true,
+            "created": 1405963894,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss a week long project around hosted style tiles with Github and Sketch integration.",
+                "creator": "U024WQ9TT",
+                "last_set": 1405963895
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C02SF73JC",
+            "name": "hovlr",
+            "is_channel": true,
+            "created": 1414615691,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X3UDG",
+                "U02SE059D"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss hand off and future iterations of Casual Carpool assets to Hovlr team",
+                "creator": "U024WQ9TT",
+                "last_set": 1414615692
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C024W0M2Y",
+            "name": "hp",
+            "is_channel": true,
+            "created": 1391028203,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U0277UJK8"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C02MFJUN1",
+            "name": "hp-cbs",
+            "is_channel": true,
+            "created": 1412016148,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X3UDG",
+                "U02MH74A8",
+                "U02PPDV7P"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0PDNHY31",
+            "name": "i_cant_adult_today",
+            "is_channel": true,
+            "created": 1456706974,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U02BPJ5HY",
+                "U078EH2R0",
+                "U0KM6C1LZ",
+                "U11MVN2H5"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Adulting is hard...",
+                "creator": "U02BPJ5HY",
+                "last_set": 1456706975
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C0GN9QQ68",
+            "name": "insidesales",
+            "is_channel": true,
+            "created": 1450216001,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U063KE3GR",
+                "U0FKXM9SQ",
+                "U0LNRHY2Y",
+                "U0M6GBJ0L",
+                "U0XTQH5PY",
+                "U13TU1JP7"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C0JD48B63",
+            "name": "interior-design",
+            "is_channel": true,
+            "created": 1452727284,
+            "creator": "U07CDNBPA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0CPBHR4L",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Training HGTV's next Design Stars",
+                "creator": "U07CDNBPA",
+                "last_set": 1452727285
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0CPBGQRY",
+            "name": "internal-deliverables",
+            "is_channel": true,
+            "created": 1445275789,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 23
+        },
+        {
+            "id": "C0NT3PU8K",
+            "name": "it",
+            "is_channel": true,
+            "created": 1456340921,
+            "creator": "U024WTK6B",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024XUPS1",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U04A04AV3",
+                "U04A04F89",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0F4W22GJ",
+                "U0KM6C1LZ",
+                "U0PA3GVD5"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Let us know if you experience any network, phone, computer, software issues.",
+                "creator": "U024WTK6B",
+                "last_set": 1456340922
+            },
+            "num_members": 21
+        },
+        {
+            "id": "C12CV2RU0",
+            "name": "jokes",
+            "is_channel": true,
+            "created": 1461187232,
+            "creator": "U02A5325Z",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "good jokes, bad jokes, dad jokes, mom jokes",
+                "creator": "U02A5325Z",
+                "last_set": 1461187369
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C0AGZUZ8S",
+            "name": "kids",
+            "is_channel": true,
+            "created": 1441993065,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024Y5T1C",
+                "U04A04AV3",
+                "U063KE3GR",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Isn\u2019t it about time?",
+                "creator": "U024X3UDG",
+                "last_set": 1441993066
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C0PUAUSF5",
+            "name": "kp",
+            "is_channel": true,
+            "created": 1456939493,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024X3UDG",
+                "U02PWJQ54",
+                "U078EH2R0",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things Kaiser Permanente",
+                "creator": "U024WQ9TT",
+                "last_set": 1456939494
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C03LE5C14",
+            "name": "life_is_short",
+            "is_channel": true,
+            "created": 1423693569,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024XUPS1",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U039Y3Q4W",
+                "U04R07L7Z",
+                "U078EH2R0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Let's explore stimuli to boost the rest of our days!",
+                "creator": "U02BPJ5HY",
+                "last_set": 1423693570
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C02NFATHP",
+            "name": "lunchplane",
+            "is_channel": true,
+            "created": 1412626988,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024WQ9TT",
+                "U024WRCUT",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02AY22TD",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04LESAGJ",
+                "U04R07L7Z",
+                "U052BQYCF",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0DM7CBL5",
+                "U0EL3G4SG",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U13KUN8GN",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "speak only through giphy",
+                "creator": "U02LFPLBH",
+                "last_set": 1421352206
+            },
+            "num_members": 43
+        },
+        {
+            "id": "C0D7CRVL3",
+            "name": "magnetic",
+            "is_channel": true,
+            "created": 1445886105,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U0EL3G4SG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Internal DM Magnetic channel",
+                "creator": "U024X3UDG",
+                "last_set": 1445886106
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C03HCSE2P",
+            "name": "marketing",
+            "is_channel": true,
+            "created": 1422904170,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02AVFB88",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U03965PSY",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0PHG2S3F",
+                "U148XTC6A"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 24
+        },
+        {
+            "id": "C04GG83EH",
+            "name": "marketonce_dev",
+            "is_channel": true,
+            "created": 1429646346,
+            "creator": "U024X3F7G",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3F7G",
+                "U04GGPLR5",
+                "U04H80YJE",
+                "U04JRPRUL",
+                "U04MSLLRE"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Ad hoc MarketOnce Design &amp; Development Collaboration",
+                "creator": "U024X3F7G",
+                "last_set": 1429646850
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C121NGDUP",
+            "name": "mayfield",
+            "is_channel": true,
+            "created": 1461096722,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024XUPS1",
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "short-term channel to discuss logistics",
+                "creator": "U024X3UDG",
+                "last_set": 1461096722
+            },
+            "num_members": 8
+        },
+        {
+            "id": "C04B0HWLC",
+            "name": "mccalls_pattern_behav",
+            "is_channel": true,
+            "created": 1428610655,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0420JZHN",
+            "name": "meeting-meeting",
+            "is_channel": true,
+            "created": 1426531205,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024Y5VLY",
+                "U02AVFB88",
+                "U02PWJQ54"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Better meetings!",
+                "creator": "U024X3UDG",
+                "last_set": 1426531205
+            },
+            "num_members": 7
+        },
+        {
+            "id": "C03GGQW23",
+            "name": "meetups",
+            "is_channel": true,
+            "created": 1422579602,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02AVFB88",
+                "U07CDNBPA",
+                "U0EL3G4SG",
+                "U0PHG2S3F",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss meetups that are happening in the Bay Area",
+                "creator": "U024WQ9TT",
+                "last_set": 1422579603
+            },
+            "num_members": 11
+        },
+        {
+            "id": "C0UCTA0BU",
+            "name": "mentor_program",
+            "is_channel": true,
+            "created": 1458601586,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024X3UDG",
+                "U024X64LA",
+                "U024XLXET",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U04A04AV3",
+                "U0803BKQ9",
+                "U0EL3G4SG",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 10
+        },
+        {
+            "id": "C03PX8YR9",
+            "name": "monday_meeting",
+            "is_channel": true,
+            "created": 1424716583,
+            "creator": "U02AVFB88",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04A04F89",
+                "U04R07L7Z",
+                "U078EH2R0",
+                "U0EL3G4SG",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 20
+        },
+        {
+            "id": "C032BPM36",
+            "name": "movies",
+            "is_channel": true,
+            "created": 1416872090,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U07CDNBPA",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To talk about Christopher Nolan movies. Or are they films? I dunno, that's what I want to talk about.",
+                "creator": "U024W0H8W",
+                "last_set": 1416872090
+            },
+            "num_members": 25
+        },
+        {
+            "id": "C034YTZNF",
+            "name": "music",
+            "is_channel": true,
+            "created": 1418056617,
+            "creator": "U033KUVE0",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U052BQYCF",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U0CPBHR4L",
+                "U0DM7CBL5",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U11MVN2H5",
+                "U13KUN8GN"
+            ],
+            "topic": {
+                "value": "Please do not post any links to downloads on Slack :)",
+                "creator": "U033KUVE0",
+                "last_set": 1462852885
+            },
+            "purpose": {
+                "value": "All things music!",
+                "creator": "U033KUVE0",
+                "last_set": 1418056617
+            },
+            "num_members": 25
+        },
+        {
+            "id": "C04R068NF",
+            "name": "my-ebay",
+            "is_channel": true,
+            "created": 1431366403,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U04R07L7Z"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "My Ebay general Slack Discussion",
+                "creator": "U024WQ9TT",
+                "last_set": 1431366404
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C07C42FM1",
+            "name": "no-fun-squad",
+            "is_channel": true,
+            "created": 1436396640,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WJDBN",
+                "U024X3UDG",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "AKA \u201cKILLJOY KLUB\"",
+                "creator": "U024WJDBN",
+                "last_set": 1436396657
+            },
+            "purpose": {
+                "value": "Bah, humbug",
+                "creator": "U024WJDBN",
+                "last_set": 1436396645
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C07DLFRM5",
+            "name": "north-bay",
+            "is_channel": true,
+            "created": 1436474187,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WJDBN",
+                "U024X3F7G"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C02ESUUM7",
+            "name": "notebook_chat",
+            "is_channel": true,
+            "created": 1406839939,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024WTK6B",
+                "U024XLXET",
+                "U02AVFB88",
+                "U02AY22TD",
+                "U02B8RWB8",
+                "U02BZE6QF"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C026MRK9P",
+            "name": "oceanside_ten",
+            "is_channel": true,
+            "created": 1395181862,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U052BQYCF"
+            ],
+            "topic": {
+                "value": "When in doubt, draw it out.",
+                "creator": "U07CDNBPA",
+                "last_set": 1444868709
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C15HJSGA1",
+            "name": "outdoors",
+            "is_channel": true,
+            "created": 1462230554,
+            "creator": "U024WRPDH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C07515YQ5",
+            "name": "overheard-on-slack",
+            "is_channel": true,
+            "created": 1435864161,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024WTX03",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024Y5VLY",
+                "U04A04AV3",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "Slack conversations to tweet on fridays",
+                "creator": "U024Y5VLY",
+                "last_set": 1435864293
+            },
+            "purpose": {
+                "value": "A place to post slack conversations we might want to tweet on fridays. Comment on individual uploads if you feel strongly one way or the other.",
+                "creator": "U024Y5VLY",
+                "last_set": 1435864336
+            },
+            "num_members": 8
+        },
+        {
+            "id": "C02LHPWF2",
+            "name": "parking",
+            "is_channel": true,
+            "created": 1411416245,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WRCUT",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U04A04AV3",
+                "U0DM0NMRA",
+                "U0F4W22GJ",
+                "U0J99U4MV",
+                "U13TU1JP7"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Coordination of who is parking in the lot, and what clients might be as well.",
+                "creator": "U024W0H8W",
+                "last_set": 1411416245
+            },
+            "num_members": 19
+        },
+        {
+            "id": "C02DUSE3U",
+            "name": "past-projects",
+            "is_channel": true,
+            "created": 1405703243,
+            "creator": "U024X2EMN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C02PHQNPJ",
+            "name": "peace_and_quiet",
+            "is_channel": true,
+            "created": 1413224512,
+            "creator": "U024X3F7G",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024X3F7G",
+                "U024XLXET",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "The anti-conversation\/gif\/video channel, because sometimes you just need a break from the stream.",
+                "creator": "U024X3F7G",
+                "last_set": 1413224513
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C04L4QM3H",
+            "name": "pets",
+            "is_channel": true,
+            "created": 1430344622,
+            "creator": "U04F8Q0JL",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U078EH2R0",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0PHG2S3F",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For sharing your pet pictures and stories!",
+                "creator": "U04F8Q0JL",
+                "last_set": 1430344623
+            },
+            "num_members": 25
+        },
+        {
+            "id": "C09EMBQ1H",
+            "name": "photography",
+            "is_channel": true,
+            "created": 1440187757,
+            "creator": "U024X2EA4",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U02MFL6A1",
+                "U04F8Q0JL",
+                "U07CDNBPA",
+                "U0CPBHR4L",
+                "U0DM7CBL5",
+                "U0EL3G4SG",
+                "U0ETMT6SY",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "A place to discuss all things photography.",
+                "creator": "U024X2EA4",
+                "last_set": 1440188072
+            },
+            "purpose": {
+                "value": "A channel to learn about and discuss photographers, techniques and gear.",
+                "creator": "U024X2EA4",
+                "last_set": 1442881967
+            },
+            "num_members": 11
+        },
+        {
+            "id": "C05469QN3",
+            "name": "phrendly",
+            "is_channel": true,
+            "created": 1432932730,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WTK6B",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U02PWJQ54"
+            ],
+            "topic": {
+                "value": "Internal Channel",
+                "creator": "U024X3F7G",
+                "last_set": 1438640078
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C02QPK4SU",
+            "name": "pingpong",
+            "is_channel": true,
+            "created": 1413842912,
+            "creator": "U024X3BFJ",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U02A5325Z",
+                "U02B8RWB8",
+                "U0DM0NMRA"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To find the greatest pingpong champion of them all!",
+                "creator": "U024X3BFJ",
+                "last_set": 1413842912
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0BK9M0BX",
+            "name": "podcasts",
+            "is_channel": true,
+            "created": 1443643854,
+            "creator": "U07CDNBPA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U024X4CFY",
+                "U024XLXET",
+                "U02BPJ5HY",
+                "U04A04F89"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0JDCJVPU",
+            "name": "powerball",
+            "is_channel": true,
+            "created": 1452735645,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X3BFJ",
+                "U02A5325Z",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04A04AV3"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Powerball dream team",
+                "creator": "U024Y5VLY",
+                "last_set": 1452735645
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C0D1GEPGC",
+            "name": "product_ideas",
+            "is_channel": true,
+            "created": 1445546901,
+            "creator": "U04F8Q0JL",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024XLXET",
+                "U02A5325Z",
+                "U04F8Q0JL",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "perpetual brainstorming because its fun",
+                "creator": "U02A5325Z",
+                "last_set": 1449721228
+            },
+            "purpose": {
+                "value": "but not necessarily good ones.",
+                "creator": "U04F8Q0JL",
+                "last_set": 1445546901
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C02UR7G9X",
+            "name": "projectma-ps",
+            "is_channel": true,
+            "created": 1415653077,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X2EMN",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U033KUVE0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "DesignMa.ps",
+                "creator": "U024W0H8W",
+                "last_set": 1415653077
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C0AV2GWLC",
+            "name": "protips",
+            "is_channel": true,
+            "created": 1442615385,
+            "creator": "U07CDNBPA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0ES53HNC",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U13KUN8GN",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "#mildyinfuriating",
+                "creator": "U07CDNBPA",
+                "last_set": 1447198101
+            },
+            "purpose": {
+                "value": "Making the world a better place",
+                "creator": "U07CDNBPA",
+                "last_set": 1442615385
+            },
+            "num_members": 42
+        },
+        {
+            "id": "C0260R9GT",
+            "name": "pure_digital_gold",
+            "is_channel": true,
+            "created": 1394217000,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WRCUT",
+                "U024X2EA4",
+                "U024X2EJC",
+                "U024X2EMN",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02B8RWB8"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Post anything that DesignMap folks have done that deserves recognition and discussion",
+                "creator": "U024W0H8W",
+                "last_set": 1394217063
+            },
+            "num_members": 9
+        },
+        {
+            "id": "C024W0FKC",
+            "name": "random",
+            "is_channel": true,
+            "created": 1391027650,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WQ9TT",
+                "U024WRCUT",
+                "U024WRPDH",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EJC",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024X64LA",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02595RS1",
+                "U02771E4H",
+                "U0277UJK8",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02AY22TD",
+                "U02B8RWB8",
+                "U02BPJ5HY",
+                "U02BZE6QF",
+                "U02L319GG",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U03965PSY",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U052BQYCF",
+                "U063KE3GR",
+                "U06C4U5RC",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0B9W577E",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0DM7CBL5",
+                "U0EL3G4SG",
+                "U0ES53HNC",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0F56K41X",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0K0CTDMK",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0UAJKLHY",
+                "U0XTQH5PY",
+                "U11MVN2H5",
+                "U13KUN8GN",
+                "U13TU1JP7",
+                "U15J342GJ"
+            ],
+            "topic": {
+                "value": "#Baby.",
+                "creator": "U024W0H8W",
+                "last_set": 1447118181
+            },
+            "purpose": {
+                "value": "A place for banter, links, articles of interest, humor or anything else which you'd like concentrated in some place other than work-related channels.",
+                "creator": "U024W0H8W",
+                "last_set": 1391195655
+            },
+            "num_members": 50
+        },
+        {
+            "id": "C03GV78N4",
+            "name": "restaurants",
+            "is_channel": true,
+            "created": 1422651849,
+            "creator": "U024X2EMN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024X64LA",
+                "U024XLXET",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0B9W577E",
+                "U0F4W22GJ",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": ":cupcake::sprinkle: and :cake:, oh my!",
+                "creator": "U024WJDBN",
+                "last_set": 1438645979
+            },
+            "purpose": {
+                "value": "to document all the awesome places to eat in SF and Bay area",
+                "creator": "U024X2EMN",
+                "last_set": 1422651849
+            },
+            "num_members": 22
+        },
+        {
+            "id": "C0JABBJ3T",
+            "name": "risd_portfolio_review",
+            "is_channel": true,
+            "created": 1452647355,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WTK6B",
+                "U024Y5VLY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussions around planning and attending the RISD portfolio reviews",
+                "creator": "U024Y5VLY",
+                "last_set": 1452647356
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C0NFFV7H9",
+            "name": "riverbed",
+            "is_channel": true,
+            "created": 1456162654,
+            "creator": "U063KE3GR",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WJDBN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U063KE3GR"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C06TDR5HT",
+            "name": "rock-climbing",
+            "is_channel": true,
+            "created": 1435364425,
+            "creator": "U02LFPLBH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02LFPLBH",
+                "U052BQYCF",
+                "U0803BKQ9",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Coordinate when to go climbing and all things climbing related",
+                "creator": "U02LFPLBH",
+                "last_set": 1435364426
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0BH2TW8M",
+            "name": "schwab-eac",
+            "is_channel": true,
+            "created": 1443560239,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024X3F7G",
+                "U063KE3GR",
+                "U0ETMT6SY",
+                "U0J99U4MV",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Internal DesignMap Channel",
+                "creator": "U024W0H8W",
+                "last_set": 1443560273
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C0Q69AKBQ",
+            "name": "schwab-va",
+            "is_channel": true,
+            "created": 1457039046,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024WQ9TT",
+                "U02BPJ5HY",
+                "U078EH2R0",
+                "U0B9W577E",
+                "U0UAJKLHY",
+                "U13TU1JP7"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Schwab Virtual Advisor",
+                "creator": "U024WQ9TT",
+                "last_set": 1457039047
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C09KQ7UGP",
+            "name": "science",
+            "is_channel": true,
+            "created": 1440544662,
+            "creator": "U02A5325Z",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024XLXET",
+                "U024XUPS1",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02G95QFR",
+                "U033KUVE0",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U063KE3GR",
+                "U0DM0NMRA",
+                "U0FKXM9SQ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Because everything is awesome.",
+                "creator": "U02A5325Z",
+                "last_set": 1440544663
+            },
+            "num_members": 18
+        },
+        {
+            "id": "C094AU49L",
+            "name": "secret_channel",
+            "is_channel": true,
+            "created": 1439573763,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Science, nature, truth and interesting facts...",
+                "creator": "U02BPJ5HY",
+                "last_set": 1439573990
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C051Q4N4J",
+            "name": "sf-matrix",
+            "is_channel": true,
+            "created": 1432658494,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C025W4PMG",
+            "name": "sfmc-contacts",
+            "is_channel": true,
+            "created": 1394046824,
+            "creator": "U024XUPS1",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U02595RS1",
+                "U02A5325Z"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things Contacts, Contact Builder or Data Management.",
+                "creator": "U024XUPS1",
+                "last_set": 1394046824
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C04GG6MFT",
+            "name": "sfmc-free-trial",
+            "is_channel": true,
+            "created": 1429646135,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3BFJ",
+                "U04FUB46N",
+                "U04H1EGMM",
+                "U04U6JMUZ",
+                "U04U8MP0D"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C024W20DQ",
+            "name": "sfmc-general",
+            "is_channel": true,
+            "created": 1391032979,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024WTK6B",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024Y5T1C",
+                "U02771E4H",
+                "U02A5325Z",
+                "U039Y3Q4W",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0DM0NMRA"
+            ],
+            "topic": {
+                "value": "all things ExactTarget",
+                "creator": "U024W0FK2",
+                "last_set": 1391466242
+            },
+            "purpose": {
+                "value": "Any and all discussion about general ExactTarget topics.",
+                "creator": "U024W0FK2",
+                "last_set": 1391032979
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C0251EM45",
+            "name": "sfmc-journeybuilder",
+            "is_channel": true,
+            "created": 1392070473,
+            "creator": "U024X2EMN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EA4",
+                "U02771E4H",
+                "U02AVFB88",
+                "U02B8RWB8"
+            ],
+            "topic": {
+                "value": "journey builder channel is the new random channel",
+                "creator": "U024X3F7G",
+                "last_set": 1393973687
+            },
+            "purpose": {
+                "value": "journey builder stuff",
+                "creator": "U024X2EMN",
+                "last_set": 1392070473
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C042D2XC3",
+            "name": "sfmc-journeys",
+            "is_channel": true,
+            "created": 1426618601,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024WJDBN",
+                "U024Y5T1C",
+                "U02771E4H",
+                "U02AVFB88",
+                "U039Y3Q4W",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss Journey Maps and Journey Builder",
+                "creator": "U024W0FK2",
+                "last_set": 1426618602
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C025ASSSF",
+            "name": "sfmc-marketingcloud",
+            "is_channel": true,
+            "created": 1392944519,
+            "creator": "U024X3BFJ",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0FK2",
+                "U024X3BFJ",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C07MAE2BZ",
+            "name": "sfmc-socialstudio",
+            "is_channel": true,
+            "created": 1436982426,
+            "creator": "U024X2FGS",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C02HLBZJR",
+            "name": "signalfuse",
+            "is_channel": true,
+            "created": 1409331473,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U02HLGRUF"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C053K3FPZ",
+            "name": "sketch",
+            "is_channel": true,
+            "created": 1432838773,
+            "creator": "U02LFPLBH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WQ9TT",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X4CFY",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U02AVFB88",
+                "U02LFPLBH",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U07CDNBPA",
+                "U0803BKQ9",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0ETMT6SY",
+                "U0J99U4MV",
+                "U0PHG2S3F",
+                "U0XTQH5PY"
+            ],
+            "topic": {
+                "value": "Share resources, tips, news, or ask questions",
+                "creator": "U02LFPLBH",
+                "last_set": 1432838976
+            },
+            "purpose": {
+                "value": "Share resources, tips, news, or ask questions about Sketch 3",
+                "creator": "U02LFPLBH",
+                "last_set": 1432838891
+            },
+            "num_members": 26
+        },
+        {
+            "id": "C0N14M0JE",
+            "name": "sketch-license",
+            "is_channel": true,
+            "created": 1455820139,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024X4CFY",
+                "U02MFL6A1",
+                "U04A04F89"
+            ],
+            "topic": {
+                "value": ":sketch:",
+                "creator": "U024X2FGS",
+                "last_set": 1455918859
+            },
+            "purpose": {
+                "value": "determining how many sketch licenses we need",
+                "creator": "U024WQ9TT",
+                "last_set": 1455820140
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C02GA1CQW",
+            "name": "slipcal",
+            "is_channel": true,
+            "created": 1408383038,
+            "creator": "U024W0H8W",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02AVFB88",
+                "U02B8RWB8",
+                "U02GA1YH2",
+                "U02GA2TKY",
+                "U02GA39PA"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0F5MCZEY",
+            "name": "snow_partay",
+            "is_channel": true,
+            "created": 1448336179,
+            "creator": "U024XUPS1",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U0EL3G4SG",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C02CF76JY",
+            "name": "soccer",
+            "is_channel": true,
+            "created": 1403886437,
+            "creator": "U024Y5T1C",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0H8W",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U024Y5VLY",
+                "U029H7BT4",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02G95QFR",
+                "U02L319GG",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0B9W577E",
+                "U0FKXM9SQ",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "DesignMap FC",
+                "creator": "U024X3F7G",
+                "last_set": 1405355042
+            },
+            "purpose": {
+                "value": "",
+                "creator": "U024X2FGS",
+                "last_set": 1405015777
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C02D5HPQW",
+            "name": "socialmedia",
+            "is_channel": true,
+            "created": 1404923865,
+            "creator": "U02771E4H",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTK6B",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U02771E4H",
+                "U02AVFB88",
+                "U03965PSY",
+                "U04A04AV3"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To store design articles to post on Twitter and other social media",
+                "creator": "U02771E4H",
+                "last_set": 1404923865
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0N2JNY2Y",
+            "name": "songoftheday",
+            "is_channel": true,
+            "created": 1455835980,
+            "creator": "U04A04F89",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U033KUVE0",
+                "U04A04F89"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C03SHSKQG",
+            "name": "sparkle-ize-it-site",
+            "is_channel": true,
+            "created": 1425346175,
+            "creator": "U02AVFB88",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C08K4135W",
+            "name": "sports",
+            "is_channel": true,
+            "created": 1438720556,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024Y5VLY",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "I like sports and maybe other people do to. Post sports related things!",
+                "creator": "U024Y5VLY",
+                "last_set": 1438720556
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C03CFK7LH",
+            "name": "standard-bank",
+            "is_channel": true,
+            "created": 1421352485,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0H8XTDG9",
+            "name": "starwarsprequels4ever",
+            "is_channel": true,
+            "created": 1450896180,
+            "creator": "U04F8Q0JL",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "sad anakin",
+                "creator": "U04F8Q0JL",
+                "last_set": 1458687638
+            },
+            "purpose": {
+                "value": "sad emojis only",
+                "creator": "U04F8Q0JL",
+                "last_set": 1450896180
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C03QD2FRG",
+            "name": "sxsw",
+            "is_channel": true,
+            "created": 1424803648,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG",
+                "U02AVFB88"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0GRKTW2J",
+            "name": "synchr",
+            "is_channel": true,
+            "created": 1450312795,
+            "creator": "U024WQ9TT",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024WTX03"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All things SyncHR",
+                "creator": "U024WQ9TT",
+                "last_set": 1450312796
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C0G68C1C6",
+            "name": "test-onboarding",
+            "is_channel": true,
+            "created": 1449603970,
+            "creator": "U0803BKQ9",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02A5325Z",
+                "U0803BKQ9"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Test Integration with Trello and GDocs",
+                "creator": "U0803BKQ9",
+                "last_set": 1449603970
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C03C4431H",
+            "name": "testrh",
+            "is_channel": true,
+            "created": 1421265827,
+            "creator": "U024Y5VLY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C14CHP40G",
+            "name": "the-casino-ii",
+            "is_channel": true,
+            "created": 1461806389,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WJDBN",
+                "U024X2FGS"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C03AHDJDS",
+            "name": "the_casino",
+            "is_channel": true,
+            "created": 1420674539,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "Games of Chance and Abusing Slackbot",
+                "creator": "U024WJDBN",
+                "last_set": 1421192854
+            },
+            "purpose": {
+                "value": "Feelin' lucky?",
+                "creator": "U024WJDBN",
+                "last_set": 1420674539
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0HFP4WTA",
+            "name": "the_great_outdoors",
+            "is_channel": true,
+            "created": 1451428495,
+            "creator": "U024X2EA4",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024W0H8W",
+                "U024WRPDH",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2FGS",
+                "U024XUPS1",
+                "U024Y5T1C",
+                "U02A5325Z",
+                "U02MFL6A1",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U07CDNBPA",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0FKXM9SQ",
+                "U0UAJKLHY"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to discuss camping, hiking and fishing.",
+                "creator": "U024X2EA4",
+                "last_set": 1451428495
+            },
+            "num_members": 18
+        },
+        {
+            "id": "C03LPAGTZ",
+            "name": "the_meaning_of_life",
+            "is_channel": true,
+            "created": 1423767030,
+            "creator": "U024WJDBN",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024WJDBN",
+                "U024X3BFJ",
+                "U02BPJ5HY",
+                "U078EH2R0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Why are we here?  What is the purpose of the human being in the universe",
+                "creator": "U024WJDBN",
+                "last_set": 1423767030
+            },
+            "num_members": 5
+        },
+        {
+            "id": "C0BMLNL0Z",
+            "name": "trumaker",
+            "is_channel": true,
+            "created": 1443727277,
+            "creator": "U024W0FK2",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 0
+        },
+        {
+            "id": "C0T6Q1NTH",
+            "name": "unproven_kitchen",
+            "is_channel": true,
+            "created": 1458157492,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024WTX03",
+                "U024X2FGS",
+                "U02A5325Z",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U04F8Q0JL",
+                "U04LESAGJ",
+                "U0CPBHR4L",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0PJ7FXFX"
+            ],
+            "topic": {
+                "value": "Ignite our tongue",
+                "creator": "U02BPJ5HY",
+                "last_set": 1458157906
+            },
+            "purpose": {
+                "value": "Create food and make our stomachs explode",
+                "creator": "U02BPJ5HY",
+                "last_set": 1458157492
+            },
+            "num_members": 12
+        },
+        {
+            "id": "C0T1FS6E4",
+            "name": "upstairs",
+            "is_channel": true,
+            "created": 1458102094,
+            "creator": "U024WTK6B",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2FGS",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U02A5325Z",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U0DM0NMRA",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Help us talk about what we need to be comfortable and productive upstairs at DM HQ. Also, coordinate who\u2019s here on the 2nd floor, who has a key, who can let me in, etc.",
+                "creator": "U024WTK6B",
+                "last_set": 1458102095
+            },
+            "num_members": 14
+        },
+        {
+            "id": "C04CTSC5J",
+            "name": "vb-dsgn-notifications",
+            "is_channel": true,
+            "created": 1429034463,
+            "creator": "U02G95QFR",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WQ9TT",
+                "U02G95QFR",
+                "U02GBTQRQ",
+                "U02LFPLBH"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Notifications for Design",
+                "creator": "U02G95QFR",
+                "last_set": 1429034645
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C03CLL8H2",
+            "name": "vb-eng-notifications",
+            "is_channel": true,
+            "created": 1421373238,
+            "creator": "U02G95QFR",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02G95QFR",
+                "U02GBTQRQ",
+                "U03LFT4TX"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C0251EXS8",
+            "name": "viakoo",
+            "is_channel": true,
+            "created": 1392055799,
+            "creator": "U024X64LA",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WRCUT",
+                "U024X2EJC",
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        },
+        {
+            "id": "C0AEKDGE4",
+            "name": "virtual-incentives",
+            "is_channel": true,
+            "created": 1441902512,
+            "creator": "U024VQKLH",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024VQKLH",
+                "U024WTK6B",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U0CPBHR4L",
+                "U0DM7CBL5",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C035EEN0U",
+            "name": "visibook",
+            "is_channel": true,
+            "created": 1418176156,
+            "creator": "U024XLXET",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024W0H8W",
+                "U024WQ9TT",
+                "U024X2EMN",
+                "U02G95QFR",
+                "U02GBTQRQ",
+                "U02LFPLBH",
+                "U035ME4N6",
+                "U03687GKU",
+                "U04F8Q0JL"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 6
+        },
+        {
+            "id": "C048VA8LE",
+            "name": "visibook-engineering",
+            "is_channel": true,
+            "created": 1428174534,
+            "creator": "U02G95QFR",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02G95QFR",
+                "U02GBTQRQ",
+                "U03LFT4TX"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Visibook engineering discussions only. I.e. no notifications here!",
+                "creator": "U02G95QFR",
+                "last_set": 1428174534
+            },
+            "num_members": 2
+        },
+        {
+            "id": "C081NP6R3",
+            "name": "volunteer",
+            "is_channel": true,
+            "created": 1437590467,
+            "creator": "U02MFL6A1",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U024X2EA4",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02MFL6A1",
+                "U078EH2R0",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "to be of service",
+                "creator": "U02MFL6A1",
+                "last_set": 1437590467
+            },
+            "num_members": 7
+        },
+        {
+            "id": "C03M80P1U",
+            "name": "whiteboards",
+            "is_channel": true,
+            "created": 1423876085,
+            "creator": "U024WTX03",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024VQKLH",
+                "U024W0FK2",
+                "U024WQ9TT",
+                "U024WTK6B",
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X2EMN",
+                "U024X2FGS",
+                "U024X3BFJ",
+                "U024X3F7G",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024X64LA",
+                "U024XLXET",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02A5325Z",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02G95QFR",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U033KUVE0",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04A04F89",
+                "U04F8Q0JL",
+                "U04R07L7Z",
+                "U063KE3GR",
+                "U078EH2R0",
+                "U0CPBHR4L",
+                "U0DM0NMRA",
+                "U0J99U4MV",
+                "U0PHG2S3F"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Place to post whiteboard photos",
+                "creator": "U024WTX03",
+                "last_set": 1423876086
+            },
+            "num_members": 33
+        },
+        {
+            "id": "C03QG8YEN",
+            "name": "why_are_we_so_awesome",
+            "is_channel": true,
+            "created": 1424818504,
+            "creator": "U02BPJ5HY",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U02BPJ5HY",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U078EH2R0"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Share the quotes that will drop our mind and blow our jaw.",
+                "creator": "U02BPJ5HY",
+                "last_set": 1424818614
+            },
+            "num_members": 4
+        },
+        {
+            "id": "C0K091NRZ",
+            "name": "wisdom-of-rick",
+            "is_channel": true,
+            "created": 1453326898,
+            "creator": "U02A5325Z",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U02A5325Z",
+                "U04F8Q0JL",
+                "U0KM6C1LZ"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 3
+        },
+        {
+            "id": "C0A4T7BF0",
+            "name": "womens_interest",
+            "is_channel": true,
+            "created": 1441314030,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024WTX03",
+                "U024X2EA4",
+                "U024X3BFJ",
+                "U024X3UDG",
+                "U024X4CFY",
+                "U024XUPS1",
+                "U024Y5VLY",
+                "U02771E4H",
+                "U02AY22TD",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U02PWJQ54",
+                "U039Y3Q4W",
+                "U04A04AV3",
+                "U04F8Q0JL",
+                "U078EH2R0",
+                "U07CDNBPA",
+                "U0B9W577E",
+                "U0DM0NMRA",
+                "U0EL3G4SG",
+                "U0FKXM9SQ",
+                "U0J99U4MV",
+                "U0PHG2S3F",
+                "U0PJ7FXFX"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "NOT EXCLUSIVE TO WOMEN MEMBERS, topics of specific interest to working women, workplaces, and general lady-stuff.",
+                "creator": "U024X3UDG",
+                "last_set": 1441314031
+            },
+            "num_members": 23
+        },
+        {
+            "id": "C03C435TB",
+            "name": "yoga_enthusiasts",
+            "is_channel": true,
+            "created": 1421265674,
+            "creator": "U02MFL6A1",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": true,
+            "members": [
+                "U024WRPDH",
+                "U024X64LA",
+                "U024XLXET",
+                "U024XUPS1",
+                "U02AVFB88",
+                "U02BPJ5HY",
+                "U02LFPLBH",
+                "U02MFL6A1",
+                "U039Y3Q4W",
+                "U04R07L7Z",
+                "U052BQYCF",
+                "U078EH2R0",
+                "U0803BKQ9",
+                "U0DM0NMRA",
+                "U0ETMT6SY",
+                "U0F4W22GJ",
+                "U0FKXM9SQ",
+                "U0KM6C1LZ",
+                "U0PHG2S3F",
+                "U0PJ7FXFX",
+                "U0XTQH5PY",
+                "U13KUN8GN"
+            ],
+            "topic": {
+                "value": "A channel for those looking to expand their meditation and yoga  practice!",
+                "creator": "U02MFL6A1",
+                "last_set": 1453849478
+            },
+            "purpose": {
+                "value": "Sharing yoga tips to integrate into personal practice.  Recommendations on styles, studios and instructors we enjoy!",
+                "creator": "U02MFL6A1",
+                "last_set": 1421265674
+            },
+            "num_members": 19
+        },
+        {
+            "id": "C026B7E0Z",
+            "name": "zeal",
+            "is_channel": true,
+            "created": 1394653657,
+            "creator": "U024X3UDG",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U024X3UDG"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "num_members": 1
+        }
+    ]
+}

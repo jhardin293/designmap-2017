@@ -1,0 +1,13 @@
+//*---------------------------------------*
+//  Careers
+//*---------------------------------------*
+.slick-slider .slick-slide[data-slick-index="0"] {
+    p {
+        @extend .text-28;
+    }
+}
+@include media-breakpoint-down(sm) {
+    .career-list.mb--110 {
+        margin-bottom: 60px;
+    }
+}

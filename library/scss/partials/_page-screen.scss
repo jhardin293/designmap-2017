@@ -1,0 +1,91 @@
+//*---------------------------------------*
+//  Page Screen
+//*---------------------------------------*
+.page-screen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-height: 100vh;
+    pointer-events: none;
+    color: white;
+    z-index: 1999;
+    background-color: $dm-red;
+    transition: all 0.5s ease-in-out;
+
+    a {
+        color: white;
+    }
+
+    h1 {
+        margin-bottom: 10px;
+        font-weight: 700;
+    }
+
+    p {}
+
+    > div {
+        max-width: 930px;
+    }
+
+    .logo {
+        margin-top: 10%;
+        margin-bottom: 5%;
+        color: white;
+        background-color: $dm-red;
+    }
+
+    //*---------------------------------------*
+    //  Homepage Quick Nav
+    //*---------------------------------------*
+    .homepage-quick-nav {
+        margin-bottom: 5%;
+        color: white;
+
+        li {
+            margin-bottom: 2.5rem;
+            font-size: font-size(h2);
+            font-weight: 700;
+            cursor: pointer;
+
+            svg {
+                transition: all 0.25s ease;
+            }
+
+            &:hover {
+                svg {
+                    transform: scale(1.1);
+                }
+            }
+
+            @include media-breakpoint-up(sm) {
+                width: 33.33333%;
+            }
+        }
+    }
+
+    //*---------------------------------------*
+    //  Homepage Screen Text
+    //*---------------------------------------*
+    .homepage-screen__text {
+        margin-bottom: 5%;
+    }
+
+    //*---------------------------------------*
+    //  Responsive
+    //*---------------------------------------*
+    @include media-breakpoint-down(sm) {
+        nav ul {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            li {
+                margin-bottom: 12px;
+                width: 100%;
+            }
+        }
+    }
+}

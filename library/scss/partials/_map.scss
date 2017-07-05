@@ -1,0 +1,12 @@
+//*---------------------------------------*
+//  Map
+//*---------------------------------------*
+#map {
+    margin-bottom: 70px;
+    width: 100%;
+    height: 412px;
+    background-color: grey;
+    @include media-breakpoint-down(sm) {
+        margin-bottom: 30px;
+    }
+}

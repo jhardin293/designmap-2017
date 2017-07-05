@@ -1,0 +1,27 @@
+//*---------------------------------------*
+//  Card
+//*---------------------------------------*
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    @include media-breakpoint-down(xs) {
+        margin-bottom: 40px;
+    }
+    .card__body {
+        flex: 1;
+    }
+
+    .card__footer {
+        min-height: 50px;
+
+        .input-group-addon {
+            padding-left: 26px;
+            padding-right: 26px;
+            height: 50px;
+            color: white;
+            font-weight: 600;
+            background-color: $dm-red;
+        }
+    }
+}

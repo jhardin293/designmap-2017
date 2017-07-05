@@ -1,0 +1,63 @@
+//*---------------------------------------*
+//  Client Logos
+//*---------------------------------------*
+.client-logos {
+    ul {
+        margin-bottom: -60px;
+        max-width: 60rem;
+
+        li {
+            margin-bottom: 60px;
+            width: 50%;
+            text-align: center;
+        }
+    }
+
+    //*---------------------------------------*
+    //
+    //  Responsive
+    //
+    //*---------------------------------------*
+    @media (min-width: 600px) {
+        ul {
+            li {
+                width: 33.33333%;
+            }
+        }
+    }
+
+    @media (min-width: 900px) {
+        ul {
+            li {
+                width: 20%;
+            }
+        }
+    }
+}
+
+.page-template-tools-for-marketers {
+    .client-logos {
+        li {
+            width: 33.33333%;
+
+            &:nth-child(4), &:nth-child(5) {
+                width: 50%;
+            }
+        }
+    }
+}
+@include media-breakpoint-down(xs) {
+    .page-template-tools-for-marketers {
+        .client-logos {
+            li {
+                width: 50%;
+                img {
+                    max-width: 80%;
+                }
+                &:nth-child(5) {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

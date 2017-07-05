@@ -1,0 +1,28 @@
+//*---------------------------------------*
+//  Social Nav
+//*---------------------------------------*
+.social-nav {
+    li {
+        + li {
+            margin-left: 12px;
+        }
+
+        a {
+            color: $silver;
+            transition: all 0.15s ease-in-out;
+
+            &:hover,
+            &:active,
+            &:focus {
+                color: white;
+            }
+        }
+    }
+
+    //*---------------------------------------*
+    //  Responsive
+    //*---------------------------------------*
+    @include media-breakpoint-down(sm) {
+        margin-bottom: 1rem;
+    }
+}

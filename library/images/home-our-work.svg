@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="112px" viewBox="0 0 141 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-home-our-work</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-40.000000, -53.000000)" fill="#FFFFFF">
+            <g id="icon-home-our-work" transform="translate(40.000000, 53.000000)">
+                <rect id="Rectangle-5" x="0" y="0" width="120" height="18"></rect>
+                <path d="M120,33 L120,21 L0,21 L0,93 L96,93 L96,42.9967202 C96,37.4755705 100.482906,33 106.00621,33 L120,33 Z" id="Combined-Shape" fill-opacity="0.300000012"></path>
+                <path d="M99,42.9967202 C99,39.1325383 102.13965,36 106.00621,36 L133.99379,36 C137.863213,36 141,39.1329196 141,42.9967202 L141,105.00328 C141,108.867462 137.86035,112 133.99379,112 L106.00621,112 C102.136787,112 99,108.86708 99,105.00328 L99,42.9967202 Z M99,46 L99,102 L141,102 L141,46 L99,46 Z" id="Phone"></path>
+                <rect id="Phone-Content" fill-opacity="0.300000012" x="99" y="49" width="42" height="50"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

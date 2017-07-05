@@ -1,0 +1,60 @@
+//*---------------------------------------*
+//  Colors
+//*---------------------------------------*
+$dm-red: #8D181C !default;
+$dm-red-hover: #9A1C21 !default;
+
+$gallery: #eeeeee !default;
+$silver: #D8D8D8 !default;
+$slate: #4a4a4a !default;
+
+$babyBlue: #00AEEF !default;
+
+$hero-bg: #3c3c3c !default;
+
+$text: black !default;
+$text-light: black !default;
+$link: black !default;
+$link-hover: black !default;
+
+//*---------------------------------------*
+//  Black Shades
+//*---------------------------------------*
+$black-1: #111 !default;
+$black-2: #222 !default;
+$black-3: #333 !default;
+$black-4: #444 !default;
+$black-5: #555 !default;
+$black-6: #666 !default;
+$black-7: #777 !default;
+$black-8: #888 !default;
+$black-9: #999 !default;
+
+//*---------------------------------------*
+//  Font Stack
+//*---------------------------------------*
+$graphik: "Graphik Web", sans-serif;
+
+// $graphik-condensed: "Graphik Cond Web", sans-serif;
+
+//*---------------------------------------*
+//  Type Settings
+//*---------------------------------------*
+$base-size: 18 !default;
+$base-line-height: 1.55555 !default;
+
+//*---------------------------------------*
+//  Border Radius
+//*---------------------------------------*
+$btn-radius: 4px !default;
+$box-radius: 6px !default;
+$input-radius: $btn-radius !default;
+
+//*---------------------------------------*
+//  Z-Index
+//*---------------------------------------*
+$zindex: (footer: 1000, header: 2000, screen: 1500, page: 1250, dropdown: 3000, overlay: 4000, modal: 5000, skip: 6000);
+
+// Max sizes
+$wrap: 58.625rem;
+$max-width: 87.5rem;

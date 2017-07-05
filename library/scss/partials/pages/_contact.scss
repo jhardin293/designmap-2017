@@ -1,0 +1,46 @@
+//*---------------------------------------*
+//  Contact
+//*---------------------------------------*
+.address-box {
+    display: flex;
+    
+    .media {
+        margin-bottom: 20px;
+        margin-right: 50px;
+        @include media-breakpoint-down(sm) {
+            &:last-of-type {
+                margin: 0;
+            }
+        }
+        .media-body {
+            margin-left: 10px;
+            color: #262626;
+            font-size: 16px;
+            line-height: 1.38;
+        }
+    }
+}
+@include media-breakpoint-down(sm) {
+    .address-box.mb--110 {
+        padding: 0 20px;
+        margin-bottom: 0;
+    }
+}
+.contact-modal-copy-email.input-group {
+    position: relative;
+    display: flex;
+    width: 100%; 
+    margin-bottom: 1rem;
+    .form-control {
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+        + span {
+            padding-left: 26px;
+            padding-right: 26px;
+            height: 50px;
+            color: white;
+            font-weight: 600;
+            background-color: #8D181C;            
+        }
+    }
+}

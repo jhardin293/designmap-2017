@@ -1,0 +1,286 @@
+//*---------------------------------------*
+//  Page Header
+//*---------------------------------------*
+.page__header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 3000;
+    height: 70px;
+    background-color: $dm-red;
+
+    //*---------------------------------------*
+    //  Tabsnav Wrap
+    //*---------------------------------------*
+    .tabsnav .wrap {
+        display: flex;
+        align-items: center;
+        height: 70px;
+        z-index: 2000;
+
+        .dm-logo {
+            position: relative;
+            z-index: 2000;
+        }
+        .dm-hdr-logo {
+            display: flex;
+            z-index: 2000;
+        }
+        .dm-hamburger {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            right: -10px;
+            width: 45px;
+            height: 45px;
+            z-index: 2000;
+            color: white;
+            cursor: pointer;
+            text-align: center;
+            transition: opacity 0.75s;
+
+            @include media-breakpoint-up(md) {
+                display: none !important;
+            }
+        }
+
+        .header-desktop-navigation {
+            margin: 0 -13px 0 0;
+            padding: 0 0 0 10px;
+
+            li {
+                a {
+                    display: flex;
+                    padding: 0 15px;
+                    height: 70px;
+                    color: white;
+                    font-size: 14px;
+                    font-weight: 400;
+                    line-height: 70px;
+                    outline: 0;
+                    text-decoration: none;
+                    transition: all 0.5s ease 0.25s;
+                }
+
+                &.active a {
+                    color: white;
+                    font-weight: 700;
+                }
+            }
+
+            @include media-breakpoint-down(sm) {
+                display: none !important;
+            }
+        }
+
+        .header-mobile-navigation {
+            li {
+                margin-bottom: 40px;
+            }
+        }
+    }
+
+    &.hide-nav {
+        .dm-hamburger {
+            opacity: 0;
+        }
+    }
+
+    body.home & {
+        position: absolute;
+    }
+}
+
+//*---------------------------------------*
+//  Tabscontent
+//*---------------------------------------*
+.homescreen {
+    padding: 22px;
+    min-height: 90vh;
+
+    .wrap > div {
+        &:first-child {
+            height: 14px;
+        }
+
+        &:nth-child(2) {
+            margin-top: 70px;
+            margin-bottom: 90px;
+        }
+    }
+
+    h1 {
+        margin-bottom: 10px;
+        color: white;
+        @include media-breakpoint-down(sm) {
+            margin: 30px 0;
+        }
+    }
+    @include media-breakpoint-up(xs) {
+        > div {
+            &:nth-child(2) {
+                margin-top: 15px;
+                margin-bottom: 80px;
+            }
+        }
+    }
+    @include media-breakpoint-up(md) {
+        > div {
+            &:first-child {
+                height: 31px;
+
+                svg {
+                    position: relative;
+                    // left: -3px;
+                }
+            }
+
+            &:nth-child(2) {
+                margin-top: 51px;
+                margin-bottom: 110px;
+            }
+        }
+    }
+
+
+    @include media-breakpoint-up(lg) {
+        padding: 22px 0;
+    }
+
+
+    //*---------------------------------------*
+    //  Homepage Quick Nav
+    //*---------------------------------------*
+    nav[aria-label="Quick navigation links"] {
+        color: white;
+
+        .card {
+            cursor: pointer;
+
+            img {
+                transition: all 0.25s ease;
+            }
+
+            &:hover {
+                img {
+                    transform: scale(1.1);
+                }
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+//  Tabsnav
+//*---------------------------------------*
+.tabsnav--hidden {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.tabsnav__item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+    cursor: pointer;
+    pointer-events: none;
+    transform: translateY(0) !important;
+
+    &.tabsnav__item--current.menu-toggle {
+        position: fixed;
+
+        .tabsnav__bar {
+            position: fixed;
+        }
+    }
+}
+
+.tabsnav__bar {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background-color: $dm-red;
+}
+
+//*---------------------------------------*
+//  Tabscontent
+//*---------------------------------------*
+.tabscontent {
+    pointer-events: none;
+
+    .tabscontent__item {
+        position: absolute;
+        z-index: 1001;
+        top: 0;
+        left: 0;
+
+        // overflow-y: scroll;
+        width: 100%;
+        height: 90vh;
+        opacity: 0;
+    }
+
+    .tabscontent__item--current,
+    .tabscontent__item--current ~ .btn--back {
+        pointer-events: auto;
+    }
+
+    .column {
+        color: white;
+
+        li {
+            margin-bottom: 1.5rem;
+            color: white;
+
+            //font-size: 2rem;
+            //font-family: $graphik;
+
+            a {
+                color: white;
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+//  Buttons
+//*---------------------------------------*
+.btn--menu {
+    font-size: 0.85em;
+    position: absolute;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    margin: 10px 0 0 6px;
+}
+
+.btn--menu-active .icon--menu,
+.icon--cross {
+    display: none;
+}
+
+.btn--menu-active .icon--cross {
+    display: block;
+}
+
+.btn--back {
+    font-size: 1.5em;
+    position: fixed;
+    z-index: 5000;
+    top: 1rem;
+    right: 1rem;
+    opacity: 0;
+    color: white;
+    cursor: pointer;
+    border: none;
+    background: none;
+
+    &:focus {
+        outline: none;
+    }
+}

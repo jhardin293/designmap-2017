@@ -1,0 +1,50 @@
+//*---------------------------------------*
+//  PDF Wrapper
+//*---------------------------------------*
+.pdf-wrapper {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 110px 20px 48px;
+    max-width: 68rem;
+    color: $black-6;
+    background-color: white;
+    box-shadow: 2px 4px 6px 0 rgba(0, 0, 0, 0.3);
+    border: solid 1px #aaa;
+
+    h2 {
+        text-transform: capitalize;
+    }
+
+    //*---------------------------------------*
+    //  PDF Wrapper Columns
+    //*---------------------------------------*
+    .pdf-wrapper__columns {
+        @include media-breakpoint-up(md) {
+            .col-12:first-child {
+                padding-right: 40px;
+            }
+
+            .col-12:last-child {
+                padding-left: 40px;
+            }
+        }
+    }
+
+    //*---------------------------------------*
+    //  PDF Download
+    //*---------------------------------------*
+    .pdf-download {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        padding: 10px 14px;
+        color: white;
+        font-size: 14px;
+        font-weight: 600;
+        cursor: pointer;
+        border-radius: 8px;
+        border: 0;
+        background-color: $dm-red;
+    }
+}

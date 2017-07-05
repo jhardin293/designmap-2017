@@ -1,0 +1,49 @@
+//*---------------------------------------*
+//  Page
+//*---------------------------------------*
+.page {
+    position: relative;
+    min-height: 100%;
+    flex: 1 0 0;
+    z-index: 1;
+}
+
+//*---------------------------------------*
+//  Page Overlay
+//*---------------------------------------*
+.page-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: z-index(page);
+    pointer-events: none;
+    background-color: white;
+
+    .page.page-ajax & {
+        z-index: z-index(page);
+    }
+}
+
+.admin-bar {
+    @media screen and (max-width: 782px) {
+        .page__header {
+            top: 46px;
+        }
+
+        #main {
+            padding-top: 46px;
+        }
+    }
+
+    @media screen and (min-width: 783px) {
+        .page__header {
+            top: 32px;
+        }
+
+        #main {
+            padding-top: 32px;
+        }
+    }
+}

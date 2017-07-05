@@ -1,0 +1,17 @@
+//*---------------------------------------*
+//  Z-Index
+//
+//  Ex: z-index: z-index(footer)
+//*---------------------------------------*
+@function z-index($level) {
+    @return map-get($zindex, $level);
+}
+
+//*---------------------------------------*
+//  PX to REM
+//
+//  Ex: font-size: rem(50);
+//*---------------------------------------*
+@function rem($pixels, $context: $base-size) {
+    @return #{$pixels / $context}rem;
+}

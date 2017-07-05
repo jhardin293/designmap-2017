@@ -1,0 +1,181 @@
+.header-dropdown {
+  height: 510px;
+  background-color: #4A4A4A;
+  color: white;
+
+
+  //*---------------------------------------*
+  //  Background and Animation
+  //*---------------------------------------*
+  .header__background {
+    display: block;
+    visibility: visible;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url('../images/tools-graphic.svg');
+    transition: all 0.4s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+    transform: scale(1);
+    filter: blur(0);
+    opacity: 1;
+  }
+
+  &.showHeader {
+    .header__background {
+      animation: puff-in-center 0.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+    }
+  }
+
+  &.isOpen {
+    .header__background {
+      visibility: hidden;
+      transform: scale(2);
+      filter: blur(2px);
+      opacity: 0;
+    }
+  }
+ @keyframes puff-in-center {
+   0% {
+     transform: scale(2);
+     filter: blur(2px);
+     opacity: 0;
+   }
+    100% {
+     transform: scale(1);
+     filter: blur(0);
+     opacity: 1;
+    }
+  }
+  //*---------------------------------------*
+  //  Container
+  //*---------------------------------------*
+  .container {
+    padding-top: 147px;
+    text-align: center;
+    p {
+      font-size: 32px;
+      margin-top: 30px;
+      padding: 0 10%; 
+      line-height: 36px;
+    }
+  }
+
+  //*---------------------------------------*
+  //  Background and Animation
+  //*---------------------------------------*
+  .dropdown__module {
+    font-size: 60px;
+    outline: none;
+    .dropdown__toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      &:focus {
+        outline: 0;
+      }
+      .toggle__title {
+        margin-right: 20px;
+        margin-left: 51px;
+      }
+
+      .toggle__caret{
+        width: 41px;
+        height: 18px;
+        display: inline-block;
+        margin-left: 10px;
+        vertical-align: middle;
+        background-repeat: no-repeat;
+        background-image: url('../images/dropdown-carret.svg');
+        transform: rotate(180deg);
+        transition: transform 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+
+        &.flip-caret {
+          animation: flip-caret 0.3s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+        }
+
+        @keyframes flip-caret {
+          0% {
+           transform: rotate(0deg);
+          }
+          100% {
+           transform: rotate(180deg);
+          }
+        }
+      }
+    }
+    &.open {
+      .toggle__caret {
+        transform: rotate(0deg);
+      }
+      .dropdown-menu {
+        transform: scale(1);
+        transform-origin: 50% 0;
+        opacity: 1;
+        visibility: visible;
+      }
+    }
+    .dropdown-menu {
+      width: 100%;
+      display: block;
+      text-align: center;
+      font-size: 60px;
+      padding: 0 6px; 
+      background-color: $slate;
+      border: none;
+      top: 285px;
+      transition: all 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000);
+      transform: scale(.5);
+      transform-origin: 50% 0;
+      opacity: 0;
+      visibility: hidden;
+      .tab-link {
+        &.hide {
+          display: none;
+        }
+      }
+      a {
+        color: white;
+      }
+      li {
+        transition: all;
+        cursor: pointer;
+        border-radius: 10px;
+        transition: all 0.2s;
+        width: 55%;
+        margin: auto;
+        font-size: rem(60);
+        &:hover {
+          background-color: #EEEEEE;
+          a {
+            color: #222222;
+          }
+        }
+      }
+    }
+  }
+}
+
+.tab-content {
+  opacity: 0;
+  height: 0;
+  transition: all .4s ease-in;
+  &.current {
+    opacity: 1;
+    height: auto;
+  }
+}
+
+.sub__heading {
+  opacity: 0;
+  height: 0;
+  transition: all .1s ease-in;
+  &.current {
+    opacity: 1;
+    height: auto;
+  }
+}

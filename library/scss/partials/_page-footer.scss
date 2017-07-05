@@ -1,0 +1,64 @@
+//*---------------------------------------*
+//  Page Footer
+//*---------------------------------------*
+.page-footer {
+    color: white;
+
+    .container-fluid {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+
+    //*---------------------------------------*
+    //  H2
+    //*---------------------------------------*
+    h2 {
+        margin-bottom: 60px;
+        color: white;
+        text-transform: initial;
+        @include media-breakpoint-down(sm) {
+            margin-bottom: 30px;
+        }
+    }
+
+    //*---------------------------------------*
+    //  P
+    //*---------------------------------------*
+    p {
+        margin-bottom: 1rem;
+        font-size: 14px;
+    }
+
+    //*---------------------------------------*
+    //  Footer Links
+    //*---------------------------------------*
+    .footer-links {
+        margin-bottom: 2rem;
+
+        ul {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            margin-top: 15px;
+
+            li {
+                margin-bottom: 10px;
+                width: 33.33333%;
+
+                a {
+                    display: block;
+                    color: white;
+                    font-size: 14px;
+                    font-family: $graphik;
+                    font-weight: 400;
+                }
+            }
+        }
+
+        @include media-breakpoint-up(sm) {
+            ul li {
+                text-align: right;
+            }
+        }
+    }
+}

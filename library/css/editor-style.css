@@ -1,0 +1,222 @@
+/*
+  Theme Name: DesignMap 2012
+  Theme URI: http://www.designmap.com
+  Author: DesignMap
+  Author URI: http://www.designmap.com
+  Description: Used to style the TinyMCE editor.
+  Version: 1 
+*/
+/* line 17, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../.rvm/gems/ruby-1.9.3-p194/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/* @group VARIABLES */
+/* SERIFA */
+/* line 28, ../sass/editor-style.scss */
+.mceContentBody {
+  color: #444;
+  font-family: arial, "Helvetica Neue", helvetica, sans-serif;
+  font-size: 10px;
+  font-size-adjust: 0.5;
+  margin: 0 auto;
+  max-width: 610px;
+  padding: 20px 10px;
+  text-rendering: optimizeLegibility;
+}
+/* line 38, ../sass/editor-style.scss */
+.mceContentBody a:link, .mceContentBody a:active, .mceContentBody a:visited {
+  text-decoration: none;
+  color: #991c1f;
+}
+/* line 42, ../sass/editor-style.scss */
+.mceContentBody a:link:hover, .mceContentBody a:active:hover, .mceContentBody a:visited:hover {
+  color: #cc333e;
+}
+/* line 47, ../sass/editor-style.scss */
+.mceContentBody h1, .mceContentBody h2, .mceContentBody h3, .mceContentBody h4, .mceContentBody h5, .mceContentBody h6 {
+  clear: both;
+}
+/* line 51, ../sass/editor-style.scss */
+.mceContentBody h2 {
+  font-family: "Serifa W01 45 Light", "Times New Roman", times, georgia, serif, "Times New Roman", times, georgia, serif;
+  font-size: 18px;
+  line-height: 1.2em;
+  margin: 30px 0 11px;
+}
+/* line 58, ../sass/editor-style.scss */
+.mceContentBody h3 {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 7px 0;
+}
+/* line 64, ../sass/editor-style.scss */
+.mceContentBody p {
+  font-size: 14px;
+  line-height: 1.36em;
+  margin: 0 0 10px 0;
+}
+/* line 70, ../sass/editor-style.scss */
+.mceContentBody ul {
+  font-size: 14px;
+  margin: 0 0 10px 10px;
+}
+/* line 74, ../sass/editor-style.scss */
+.mceContentBody ul li {
+  list-style: disc;
+  line-height: 1.6em;
+  margin: 5px 0 0 17px;
+}
+/* line 81, ../sass/editor-style.scss */
+.mceContentBody ol {
+  font-size: 14px;
+  margin: 0 0 10px 10px;
+}
+/* line 85, ../sass/editor-style.scss */
+.mceContentBody ol li {
+  list-style: decimal;
+  line-height: 1.6em;
+  margin: 5px 0 0 17px;
+}
+/* line 92, ../sass/editor-style.scss */
+.mceContentBody strong, .mceContentBody b {
+  font-weight: 600;
+}
+/* line 96, ../sass/editor-style.scss */
+.mceContentBody em, .mceContentBody i {
+  font-style: italic;
+}
+/* line 100, ../sass/editor-style.scss */
+.mceContentBody .wp-caption {
+  background: none;
+  border: none;
+  height: auto;
+  margin: 30px 0;
+  position: relative;
+  width: 100% !important;
+  -webkit-border-radius: none;
+  -moz-border-radius: none;
+  -ms-border-radius: none;
+  -o-border-radius: none;
+  border-radius: none;
+}
+/* line 109, ../sass/editor-style.scss */
+.mceContentBody .wp-caption:first-child {
+  margin: 0 0 30px 0;
+}
+/* line 113, ../sass/editor-style.scss */
+.mceContentBody .wp-caption img {
+  display: block !important;
+  float: none !important;
+  margin: 0 !important;
+}
+/* line 120, ../sass/editor-style.scss */
+.mceContentBody .wp-caption-dd {
+  color: #888;
+  font-size: 12px;
+  padding: 7px 0;
+  text-align: left;
+}
+/* line 127, ../sass/editor-style.scss */
+.mceContentBody img {
+  display: block;
+}
+/* line 131, ../sass/editor-style.scss */
+.mceContentBody img.size-full, .mceContentBody img.size-large {
+  height: auto;
+  max-width: 100%;
+}
+/* line 136, ../sass/editor-style.scss */
+.mceContentBody img.alignright {
+  display: inline;
+  float: right;
+  margin: 0 0 10px 10px;
+}
+/* line 142, ../sass/editor-style.scss */
+.mceContentBody img.alignleft {
+  display: inline;
+  float: left;
+  margin: 0 10px 10px 0;
+}
+/* line 148, ../sass/editor-style.scss */
+.mceContentBody img.alignnone {
+  margin: 20px 0;
+}
+/* line 153, ../sass/editor-style.scss */
+.mceContentBody blockquote {
+  color: #141310;
+  display: block;
+  font-style: italic;
+  font-size: 1.2em;
+  margin: 20px 0;
+  padding: 20px 20px 10px 45px;
+  background: #e7e6e2 url(../images/blockquote.gif) no-repeat left top;
+}
+/* line 162, ../sass/editor-style.scss */
+.mceContentBody blockquote:first-child {
+  margin: 0 0 20px 0;
+}
+/* line 166, ../sass/editor-style.scss */
+.mceContentBody blockquote p {
+  font-size: 1.2em;
+}

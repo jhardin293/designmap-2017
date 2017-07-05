@@ -1,0 +1,10 @@
+//*---------------------------------------*
+//  Background Loader
+//*---------------------------------------*
+.background-loader {
+    transition: opacity 0.4s;
+
+    &.loading-background {
+        opacity: 0;
+    }
+}

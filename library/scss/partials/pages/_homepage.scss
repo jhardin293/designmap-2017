@@ -1,0 +1,73 @@
+//*---------------------------------------*
+//  Packery Grid
+//*---------------------------------------*
+.packery--grid {
+    //*---------------------------------------*
+    //  Article
+    //  nth-child(1) is a hidden item
+    //*---------------------------------------*
+    article:not(.packery-testimonial) {
+        &:nth-child(2) {
+            figcaption {
+                background-color: #00AEF2;
+            }
+        }
+
+        &:nth-child(3) {
+            figcaption {
+                background-color: #00AE9D;
+            }
+        }
+
+        &:nth-child(4) {
+            figcaption {
+                background-color: $slate;
+            }
+        }
+
+        &:nth-child(5) {
+            figcaption {
+                background-color: #417505;
+            }
+        }
+
+        &:nth-child(6) {
+            figcaption {
+                background-color: $slate;
+            }
+        }
+
+        &:nth-child(7) {
+            figcaption {
+                background-color: $slate;
+            }
+        }
+    }
+
+    //*---------------------------------------*
+    //  Article.Packery-Testimonial
+    //*---------------------------------------*
+    article.packery-testimonial {
+        cursor: default;
+        background-color: $dm-red;
+
+        blockquote {
+            padding: 48px 60px;
+            color: white;
+
+            h3 {
+                position: relative;
+                margin-bottom: 26px;
+            }
+
+            p {
+                margin: 0;
+            }
+        }
+    }
+}
+@include media-breakpoint-down(sm) {
+    .homepage-proper .row.mt--85.mb--160 {
+        margin-bottom: 60px;
+    }
+}

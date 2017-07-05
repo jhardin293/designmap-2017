@@ -1,0 +1,123 @@
+html {
+    overflow: hidden;
+}
+
+.tabsnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.tabsnav--hidden {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.tabsnav__item {
+    height: 50px;
+    position: relative;
+    cursor: pointer;
+}
+
+.tabsnav__bar {
+    background: currentColor;
+    width: 100%;
+    height: 95%;
+    position: absolute;
+    pointer-events: none;
+}
+
+.tabsnav__title {
+    position: relative;
+    cursor: pointer;
+    margin: 0;
+    height: 100%;
+    font-weight: normal;
+    line-height: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+
+.tabsnav--zeru {
+    background: #222525;
+}
+
+.tabsnav--zeru .tabsnav__item:first-child {
+    z-index: 2000 !important;
+}
+
+.tabsnav--zeru .tabsnav__item:first-child .tabsnav__bar {
+    background: $dm-red;
+}
+
+.tabsnav--zeru .tabsnav__item:nth-child(2) .tabsnav__bar {
+    background: #222525;
+}
+
+.tabsnav--zeru .tabsnav__item:nth-child(3) .tabsnav__bar {
+    background: #2e3131;
+}
+
+.tabsnav--zeru .tabsnav__title {
+    color: white;
+}
+
+.tabscontent {
+    pointer-events: none;
+}
+
+.tabscontent__item {
+    position: fixed;
+    z-index: 1001;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100vh;
+    opacity: 0;
+}
+
+.tabscontent__item--current,
+.tabscontent__item--current ~ .btn--back {
+    pointer-events: auto;
+}
+
+.column__title {
+    color: white;
+    font-size: rem(36);
+}
+
+.column__text {
+    color: white;
+    font-size: rem(24);
+}
+
+.btn--back {
+    font-size: 1.5em;
+    position: absolute;
+    z-index: 1002;
+    top: 1em;
+    right: 1em;
+    opacity: 0;
+    color: #1d48f3;
+    cursor: pointer;
+    border: none;
+    background: none;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+.btn--back {
+    color: #ff764b;
+}

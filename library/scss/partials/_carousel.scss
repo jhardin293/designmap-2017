@@ -1,0 +1,38 @@
+//*---------------------------------------*
+//  Carousel
+//*---------------------------------------*
+.carousel {
+    transition: background-color 0.5s ease-in;
+    h1 {
+        transition: color 0.5s ease-in;
+    }
+    &[data-text-color="dark"] {
+        h1 {
+            color: black;
+        }
+    }
+    &[data-text-color="light"] {
+        h1 {
+            color: white;
+        }
+    }
+    //*---------------------------------------*
+    //  Responsive
+    //*---------------------------------------*
+    @include media-breakpoint-down(md) {
+        h1 {
+            padding-left: rem(20);
+            padding-right: rem(20);
+        }
+    }
+    @include media-breakpoint-down(lg) {
+        .slick-arrow {
+            display: none !important;
+        }  
+    }
+    @include media-breakpoint-up(xl) {
+        .slick-dots {
+            display: none !important;
+        }
+    }
+}

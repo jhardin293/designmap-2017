@@ -1,0 +1,557 @@
+//*---------------------------------------*
+// Team Header
+//*---------------------------------------*
+.team-header_row {
+    margin-bottom: 75px;
+
+    h2 {
+        font-weight: 500;
+
+        // repeat color, use variables
+        color: #444444;
+        margin-bottom: 5px;
+    }
+
+    p {
+        font-size: 36px;
+
+        // repeat color
+        color: #444444;
+        margin-bottom: 0;
+
+        // no font weight 200
+        font-weight: 200;
+    }
+}
+
+.team__footer {
+    z-index: 3;
+    background: rgba(255, 255, 255, 0.81);
+    width: 100%;
+    margin-top: 110px;
+    margin-bottom: 160px;
+    text-align: center;
+
+    p {
+        font-size: 32px;
+        color: #444444;
+        margin-bottom: 0;
+        font-weight: 200;
+    }
+}
+
+#headerControls {
+    width: 100%;
+    max-width: 58.5rem;
+    font-size: 28px;
+    font-weight: 300;
+    line-height: 34px;
+    z-index: 3;
+    background: rgba(255, 255, 255, 0.81);
+
+    a {
+        // color: #84191E;
+        font-weight: 500;
+
+        &.selected {
+            color: black;
+        }
+    }
+}
+
+.viz-spacer {
+    height: 0px;
+}
+
+//*---------------------------------------*
+// Team view options
+//*---------------------------------------*
+.team-view-options {
+    position: relative;
+    height: 100%;
+    transition: transform 0.15s ease;
+}
+
+//*---------------------------------------*
+// Team discription
+//*---------------------------------------*
+.team-disc {
+    color: #666666;
+    font-size: 180%;
+    font-weight: 100;
+    margin-bottom: 68px;
+}
+
+//*---------------------------------------*
+// Filters and Viz
+//*---------------------------------------*
+.filters-and-viz {
+    width: 100%;
+    margin-top: 120px;
+
+    $activeTranistion: all 0.5s;
+
+    .graph-container {
+        position: absolute;
+        top: 0px;
+
+        .slack-wrapper {
+            cursor: pointer;
+        }
+
+        .not-infocus[data-type="person"] {
+            image {
+                opacity: 0.3;
+                transition: $activeTranistion;
+            }
+
+            circle {
+                opacity: 1;
+            }
+        }
+
+        .node-active[data-type="person"] {
+            image {
+                opacity: 1;
+                transition: $activeTranistion;
+            }
+        }
+
+        .not-infocus[data-type="channel"] {
+            circle {
+                fill: #C28C8F;
+                transition: $activeTranistion;
+            }
+        }
+
+        .node-active[data-type="channel"] {
+            circle {
+                fill: #84191E;
+                transition: $activeTranistion;
+            }
+        }
+
+        .link-inactive {
+            stroke: rgba(230, 228, 228, 0.51);
+            transition: $activeTranistion;
+        }
+
+        .link-active {
+            stroke: rgba(230, 228, 228, 1);
+            transition: $activeTranistion;
+        }
+
+        .node-label {
+            text {
+                font-size: 16px;
+                font-weight: 500;
+            }
+        }
+    }
+
+    &[data-state='resetToAll'] {
+        #resetToAll {
+            color: #333333;
+        }
+
+        .team-nav {
+            display: block;
+        }
+
+        div[data-section="work"] {
+            display: flex;
+        }
+
+        .vis-container svg {
+            margin-top: -42px;
+            margin-left: 20px;
+        }
+    }
+
+    &[data-state='client'] {
+        .team-nav {
+            display: block;
+        }
+
+        .vis-container svg {
+            display: none;
+        }
+    }
+
+    &:not([data-state='client']) {
+        .client-container {
+            display: none;
+        }
+    }
+
+    &[data-state='date'] {
+        #date {
+            color: #333333;
+        }
+
+        .vis-container svg {
+            margin-top: -268px;
+        }
+    }
+
+    &[data-state='slack'] {
+        #slack {
+            color: #333333;
+        }
+
+        height: 1579px;
+
+        .vis-container svg {
+            display: none;
+        }
+
+        div[data-section="work"] {
+            display: none;
+        }
+
+        .viz-spacer {
+            height: 1061px;
+        }
+    }
+
+    &:not([data-state='slack']) {
+        .graph-container {
+            display: none;
+        }
+    }
+}
+
+//*---------------------------------------*
+// Vis Container
+//*---------------------------------------*
+.vis-container {
+    width: 80%;
+
+    svg {
+        display: block;
+    }
+
+    .node-container {
+        cursor: pointer;
+    }
+}
+
+#teamModal {
+    display: none;
+}
+
+//*---------------------------------------*
+// Graph container
+//*---------------------------------------*
+.graph-container {
+    display: block;
+    width: 100%;
+}
+
+//*---------------------------------------*
+// Modal
+//*---------------------------------------*
+/*
+.animated.animatedModal-on.zoomIn {
+  top: 40px !important;
+}
+.close-animatedModal {
+  float: right;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+  cursor: pointer;
+}
+.modal-content {
+  border: none;
+  padding-top: 85px;
+  margin: 0 auto;
+  width: 67%;
+  .modal-head {
+    display: flex;
+    align-items: center;
+    margin-bottom: 48px;
+    img {
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      margin-right: 40px;
+    }
+
+    h6 {
+      font-size: 20px;
+      margin-bottom: 6px;
+      color: #555555;
+    }
+    h1 {
+      font-weight: 500;
+      font-size: 36px;
+      color: #444444;
+    }
+  }
+  .team-modal-bio {
+    color: #444444;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 35px;
+  }
+  .modal-foot {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    .foot-item {
+      display: flex;
+      svg {
+        margin-right: 20px;
+      }
+      &:last-child {
+        .team-modal-year {
+          margin-top: 18px;
+          color: #84191E;
+        }
+      }
+    }
+    p {
+      margin-bottom: 0;
+      color: #84191E;
+    }
+  }
+}
+*/
+
+//*---------------------------------------*
+// CLient container
+//*---------------------------------------*
+.client-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    .team-member {
+        position: relative;
+        width: calc(50% - 20px);
+        height: 322px;
+        margin-bottom: 65px;
+        border: 1px solid #CCCCCC;
+        margin-left: 20px;
+        padding: 35px 25px;
+        padding-top: 55px;
+        transition: all .4s;
+        top: 140px;
+        opacity: 0.2;
+
+        &.show {
+            top: 0;
+            opacity: 1;
+        }
+
+        .avatar {
+            position: absolute;
+            left: 40%;
+            top: -36px;
+
+            img {
+                border-radius: 50%;
+                width: 80px;
+                height: 80px;
+            }
+        }
+
+        .role {
+            font-size: 14px;
+            margin: 0;
+            margin-bottom: 5px;
+        }
+
+        h6 {
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .bio {
+            p {
+                font-size: 14px;
+                color: #555555;
+                line-height: 22px;
+            }
+        }
+
+        .more {
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+
+            span {
+                display: block;
+                margin-left: 5px;
+                font-size: 10px;
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+// Team Nav
+//*---------------------------------------*
+.team-nav {
+    display: none;
+
+    label {
+        margin-bottom: 2px;
+
+        // no bold, use 700
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    ul {
+        list-style: none;
+
+        // not needed
+        color: #666666;
+        margin-bottom: 20px;
+
+        li.active {
+            a {
+                // use variable $dm-red
+                color: #8D181D;
+            }
+        }
+
+        li a {
+            // use variable $black-6
+            color: #666666;
+
+            // not needed
+            text-decoration: none;
+
+            &:hover {
+                color: #8D181C;
+            }
+        }
+    }
+}
+
+//*---------------------------------------*
+// Main content
+//*---------------------------------------*
+.main-content {
+    .higlight {
+        display: inline-block;
+        padding: 0 10px;
+        background-color: #ECECED;
+        color: #8D181C;
+
+        &.spotlight {
+            background-color: #8D181C;
+            color: #ECECED;
+        }
+    }
+}
+
+//*---------------------------------------*
+// tool tip
+//*---------------------------------------*
+.tool-tip {
+    width: 250px;
+    min-height: 330px;
+    padding: 10px 14px;
+    top: 239px;
+    right: 271px;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    border-radius: 2px;
+
+    .tip--av-title {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+
+        img {
+            max-height: 60px;
+            border-radius: 50%;
+            margin-right: 16px;
+        }
+    }
+
+    k
+    .tip--title {
+        h3 {
+            margin: 0;
+            font-size: 13px;
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 20px;
+        }
+    }
+}
+
+.tool-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 40px;
+    width: 100%;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    content: "\25BC";
+    position: absolute;
+    bottom: -27px;
+    right: 6px;
+    text-align: center;
+}
+
+div[data-section="work"] {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 58.5rem;
+}
+
+//*---------------------------------------*
+// Bubbles 
+//*---------------------------------------*
+.bubble {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+//*---------------------------------------*
+//  Temp
+//*---------------------------------------*
+.modal-content {
+    .media-body {
+        margin-bottom: rem(50);
+    }
+}
+
+.team-modal-projects {
+    // background-image: url();
+    background-size: rem(64);
+    background-repeat: no-repeat;
+}
+
+.team-modal-slack {
+    //background-image: url(../images/icon-channel.svg);
+    background-size: rem(64);
+    background-repeat: no-repeat;
+}
+
+.team-modal-year {
+    min-height: rem(64);
+
+    //background-image: url(../images/icon-years.svg);
+    background-size: rem(64);
+    background-repeat: no-repeat;
+}
+
+.team-modal-img {
+    border-radius: 50%;
+}
+
+.team-modal-bio {
+    margin-bottom: rem(40);
+}

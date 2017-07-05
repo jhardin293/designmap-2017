@@ -1,0 +1,15 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    Group
+  </title>
+  <defs>
+    <ellipse id="a" cx="30" cy="30" rx="30" ry="30"/>
+    <mask id="b" x="0" y="0" width="60" height="60" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g stroke="#666" stroke-width="4" fill="none" fill-rule="evenodd">
+    <use mask="url(#b)" opacity=".4" xlink:href="#a"/>
+    <path d="M17.227 28.206l21.745-7.285M20.694 38.61l21.746-7.285M31.366 17l7.286 21.743M20.986 20.656l7.285 21.746" stroke-linecap="round"/>
+  </g>
+</svg>

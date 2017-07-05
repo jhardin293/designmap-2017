@@ -1,0 +1,166 @@
+//*---------------------------------------*
+//  Entry Content
+//*---------------------------------------*
+.entry-content {
+    a span {
+        font-weight: 600 !important;
+    }
+
+    //*---------------------------------------*
+    //  Figure
+    //*---------------------------------------*
+    figure {
+        position: relative;
+        margin-top: 60px;
+    }
+
+    //*---------------------------------------*
+    //  H3, H4, H5, H6
+    //*---------------------------------------*
+    h3, h4, h5, h6 {
+        @extend .h2;
+
+        text-transform: uppercase;
+    }
+
+    //*---------------------------------------*
+    //  Img
+    //*---------------------------------------*
+    img {
+        @extend .responsive-img;
+
+        box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.2);
+
+        &.no-shadow {
+            box-shadow: none;
+        }
+    }
+
+    //*---------------------------------------*
+    //  Ul, Ol
+    //*---------------------------------------*
+    ul, ol {
+        margin-left: 16px;
+        margin-bottom: 28px;
+
+        li {
+            margin-bottom: 1rem;
+        }
+    }
+
+    //*---------------------------------------*
+    //  P
+    //*---------------------------------------*
+    p {
+        margin-bottom: 28px;
+
+        &:empty {
+            margin: 0;
+        }
+    }
+
+    .p1 > img {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+//*---------------------------------------*
+//  .entry-content .body2
+//*---------------------------------------*
+.entry-content.body2, .entry-content .body2 {
+    p {
+        margin-bottom: 26px;
+
+        &:empty {
+            margin: 0;
+        }
+    }
+}
+
+//*---------------------------------------*
+//  .hentry
+//*---------------------------------------*
+.hentry {
+    position: relative;
+
+    /*
+    padding-bottom: 20px;
+
+    &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -50px;
+        width: 40px;
+        height: 2px;
+        background-color: $black-4;
+    }
+    */
+}
+
+//*---------------------------------------*
+//  Single, Case Studies
+//*---------------------------------------*
+.single .entry-content, .single-case-studies .entry-content {
+    @include media-breakpoint-up(lg) {
+        figure:not(.aligncenter), p:not(.tagline), li {
+            max-width: 620px;
+        }
+
+        figure:not(.aligncenter) {
+            img {
+                margin-bottom: 60px;
+            }
+
+            figcaption {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                margin-left: 50px;
+                width: 100%;
+                max-width: 270px;
+                text-align: left;
+            }
+        }
+
+        figure.aligncenter {
+            img {
+                margin-bottom: 60px;
+            }
+
+            figcaption {
+                position: absolute;
+                right: 0;
+                margin-top: -12px;
+                margin-left: 50px;
+                width: 100%;
+                max-width: 270px;
+                text-align: left;
+            }
+        }
+    }
+}
+@include media-breakpoint-down(xs) {
+    .entry-content {
+        padding: 0 20px;
+        &.mb--110 {
+            margin-bottom: 60px;        
+        }        
+    }
+    .page-template-tools-for-marketers {
+        .mb--130 {
+            margin-bottom: 60px;
+            text-align: center;
+        }
+        .responsive-img.mb--30 {
+            max-width: 90%;
+        }
+        .banner.banner--large {
+            padding: 60px 20px;
+        }
+        .media.media--contact {
+            padding: 0 20px;
+        }
+    }
+}
